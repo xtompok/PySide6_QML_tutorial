@@ -24,6 +24,9 @@ Uživatelské rozhraní (QML soubor) se obvykle vyskytuje ve dvou variantách -
 propracovanější, ukazující možnosti přizpůsobení grafického rozhraní. Mezi
 rozhraními se přepíná ve zdrojovém kódu přepsáním `VIEW_PATH`.
 
+Pokud nějaký pojem nemá český ustálený ekvivalent, budu používat původní
+anglické názvy, text tedy může někdy vypadat poněkud krkolomně.
+
 ## Doporučený SW
 Pro Python doporučuji PyCharm nebo jiný editor s doplňováním syntaxe, pro
 editaci QML pak Qt Creator (součástí balíku Qt). QML lze psát i v PyCharmu
@@ -46,4 +49,11 @@ budoucnu `requirements.txt`.
 	- reakce na stisk tlačítka
  3. [Převod DMS na stupně a zpět](03_dms_converter)
  	- synchronizace mezi modelem a GUI
+
+## Zdroje
+ - [Dokumentace ke Qt](https://doc.qt.io/)
+ - [Qt for Python](https://doc.qt.io/qtforpython/index.html#)
+ - Seriál [Grafické uživatelské rozhraní v Pythonu](https://www.root.cz/serialy/graficke-uzivatelske-rozhrani-v-pythonu/), poslední 3 díly
+ - [Seznam QML typů](https://doc.qt.io/qt-5/qmltypes.html)
+ - [Seznam modulů v PySide2](https://doc.qt.io/qtforpython/modules.html)
 
