@@ -1,0 +1,10 @@
+#Map and list of cities in Czech Republic
+#defaultView:Map
+select ?muni ?muniLabel ?location ?population ?area where {
+  ?muni p:P31 ?instanceOf; # Get statement because we need this later
+        wdt:P625 ?location. # Get location
+  OPTIONAL { ?muni wdt:P1082 ?population.} # Get population
+  OPTIONAL { ?muni wdt:P2046 ?area.}
+  ?instanceOf ps:P31 wd:Q15978299. # P31 should be 'municipality of the Czech Republic'
+  service wikibase:label { bd:serviceParam wikibase:language "cs". } # Show names in Czech
+}

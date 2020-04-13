@@ -48,7 +48,14 @@ budoucnu `requirements.txt`.
 	- binding proměnných
 	- reakce na stisk tlačítka
  3. [Převod DMS na stupně a zpět](03_dms_converter)
- 	- synchronizace mezi modelem a GUI
+	- koncept model a view
+	- obousměrná synchronizace mezi modelem a GUI
+ 4. [Seznam měst](04_city_list)
+ 	- model, view, delegate
+ 5. [Mapa měst](05_city_map)
+ 	- Map View
+	- property v QML
+
 
 ## Zdroje
  - [Dokumentace ke Qt](https://doc.qt.io/)

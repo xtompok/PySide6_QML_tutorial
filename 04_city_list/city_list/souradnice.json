@@ -1,0 +1,4277 @@
+[
+  {
+    "muni": "http://www.wikidata.org/entity/Q319731",
+    "muniLabel": "Abertamy",
+    "location": "Point(12.818349955 50.368857271)",
+    "population": "975",
+    "area": "8.69683"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158242",
+    "muniLabel": "Adamov",
+    "location": "Point(16.65857065 49.300526299)",
+    "population": "4517",
+    "area": "3.781066"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q528536",
+    "muniLabel": "Andělská Hora",
+    "location": "Point(17.389147767 50.060819773)",
+    "population": "357",
+    "area": "15.900729"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q583910",
+    "muniLabel": "Aš",
+    "location": "Point(12.1951 50.224)",
+    "population": "13210",
+    "area": "55.856113"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q804489",
+    "muniLabel": "Bakov nad Jizerou",
+    "location": "Point(14.9416 50.4824)",
+    "population": "5156",
+    "area": "27.008269"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q791533",
+    "muniLabel": "Bavorov",
+    "location": "Point(14.0789 49.1219)",
+    "population": "1572",
+    "area": "35.409119"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q20492",
+    "muniLabel": "Bechyně",
+    "location": "Point(14.468125123 49.295309165)",
+    "population": "5097",
+    "area": "21.293035"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q470394",
+    "muniLabel": "Benešov",
+    "location": "Point(14.687020558 49.781695568)",
+    "population": "16656",
+    "area": "46.870234"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q817141",
+    "muniLabel": "Benešov nad Ploučnicí",
+    "location": "Point(14.312497327 50.741663932)",
+    "population": "3716",
+    "area": "9.773206"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q818540",
+    "muniLabel": "Benátky nad Jizerou",
+    "location": "Point(14.823513539 50.290918373)",
+    "population": "7418",
+    "area": "35.505468"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q827041",
+    "muniLabel": "Beroun",
+    "location": "Point(14.072061165 49.963908175)",
+    "population": "19510",
+    "area": "31.251057"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q616317",
+    "muniLabel": "Bezdružice",
+    "location": "Point(12.971168135 49.907353061)",
+    "population": "951",
+    "area": "32.013808"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q854597",
+    "muniLabel": "Bečov nad Teplou",
+    "location": "Point(12.838387437 50.083563353)",
+    "population": "934",
+    "area": "19.817251"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q850676",
+    "muniLabel": "Blansko",
+    "location": "Point(16.643174766 49.363160582)",
+    "population": "20572",
+    "area": "44.972248"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q804395",
+    "muniLabel": "Blatná",
+    "location": "Point(13.881793989 49.424977027)",
+    "population": "6583",
+    "area": "43.601382"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q885482",
+    "muniLabel": "Blovice",
+    "location": "Point(13.540135487 49.58229381)",
+    "population": "4140",
+    "area": "28.963052"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q887281",
+    "muniLabel": "Blšany",
+    "location": "Point(13.4713 50.2174)",
+    "population": "999",
+    "area": "36.340523"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q512631",
+    "muniLabel": "Bochov",
+    "location": "Point(13.045244542 50.151005211)",
+    "population": "1980",
+    "area": "95.690438"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q890949",
+    "muniLabel": "Bohumín",
+    "location": "Point(18.357595239 49.904089832)",
+    "population": "20690",
+    "area": "31.027791"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q891004",
+    "muniLabel": "Bohušovice nad Ohří",
+    "location": "Point(14.150578623 50.493240994)",
+    "population": "2505",
+    "area": "8.622529"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q891190",
+    "muniLabel": "Bojkovice",
+    "location": "Point(17.8149 49.0386)",
+    "population": "4395",
+    "area": "41.879763"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q893268",
+    "muniLabel": "Bor",
+    "location": "Point(12.775216037 49.711710233)",
+    "population": "4306",
+    "area": "116.511231"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q765670",
+    "muniLabel": "Borohrádek",
+    "location": "Point(16.093327372 50.097808676)",
+    "population": "2079",
+    "area": "13.98462"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q894102",
+    "muniLabel": "Borovany",
+    "location": "Point(14.642272395 48.89867523)",
+    "population": "4173",
+    "area": "42.332733"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q894440",
+    "muniLabel": "Boskovice",
+    "location": "Point(16.66000208 49.487537313)",
+    "population": "11622",
+    "area": "27.815442"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q896422",
+    "muniLabel": "Boží Dar",
+    "location": "Point(12.9245 50.4098)",
+    "population": "253",
+    "area": "37.91298"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q898468",
+    "muniLabel": "Brandýs nad Labem-Stará Boleslav",
+    "location": "Point(14.663332953 50.18716068)",
+    "population": "19136",
+    "area": "22.654825"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q898464",
+    "muniLabel": "Brandýs nad Orlicí",
+    "location": "Point(16.285340547 50.001976032)",
+    "population": "1303",
+    "area": "4.327082"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q14960",
+    "muniLabel": "Brno",
+    "location": "Point(16.608333333 49.195277777)",
+    "population": "380681",
+    "area": "230.182739"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q990988",
+    "muniLabel": "Broumov",
+    "location": "Point(16.331904763 50.585690135)",
+    "population": "7444",
+    "area": "22.261969"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q950352",
+    "muniLabel": "Brtnice",
+    "location": "Point(15.676443374 49.306994708)",
+    "population": "3758",
+    "area": "74.123716"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q992481",
+    "muniLabel": "Brumov-Bylnice",
+    "location": "Point(18.023099545 49.090871365)",
+    "population": "5540",
+    "area": "56.270972"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q994280",
+    "muniLabel": "Bruntál",
+    "location": "Point(17.464759014 49.988449251)",
+    "population": "16408",
+    "area": "29.344536"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q994946",
+    "muniLabel": "Brušperk",
+    "location": "Point(18.2221 49.7001)",
+    "population": "4024",
+    "area": "10.268451"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1001501",
+    "muniLabel": "Budišov nad Budišovkou",
+    "location": "Point(17.6297 49.7951)",
+    "population": "2908",
+    "area": "79.151521"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1001647",
+    "muniLabel": "Budyně nad Ohří",
+    "location": "Point(14.125997179 50.404354356)",
+    "population": "2175",
+    "area": "33.569167"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q776426",
+    "muniLabel": "Bučovice",
+    "location": "Point(17.001917706 49.148973571)",
+    "population": "6496",
+    "area": "31.191141"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158423",
+    "muniLabel": "Buštěhrad",
+    "location": "Point(14.189049604 50.156020273)",
+    "population": "3464",
+    "area": "7.609259"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q637024",
+    "muniLabel": "Bystré",
+    "location": "Point(16.346828261 49.628489847)",
+    "population": "1540",
+    "area": "14.101674"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q775776",
+    "muniLabel": "Bystřice",
+    "location": "Point(14.667451342 49.732203439)",
+    "population": "4422",
+    "area": "63.358971"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1018700",
+    "muniLabel": "Bystřice nad Pernštejnem",
+    "location": "Point(16.261501207 49.522980589)",
+    "population": "8110",
+    "area": "53.057109"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q941061",
+    "muniLabel": "Bystřice pod Hostýnem",
+    "location": "Point(17.674035465 49.399238981)",
+    "population": "8169",
+    "area": "26.811394"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1018795",
+    "muniLabel": "Bzenec",
+    "location": "Point(17.266852936 48.973376249)",
+    "population": "4361",
+    "area": "40.336022"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q518360",
+    "muniLabel": "Bílina",
+    "location": "Point(13.775445246 50.548631074)",
+    "population": "17166",
+    "area": "32.511926"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1015409",
+    "muniLabel": "Bílovec",
+    "location": "Point(18.015853348 49.75638039)",
+    "population": "7419",
+    "area": "38.871063"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1022054",
+    "muniLabel": "Bělá nad Radbuzou",
+    "location": "Point(12.71765173 49.591266278)",
+    "population": "1745",
+    "area": "83.322307"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019942",
+    "muniLabel": "Bělá pod Bezdězem",
+    "location": "Point(14.804180555 50.501213888)",
+    "population": "4786",
+    "area": "63.19957"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q855757",
+    "muniLabel": "Bělčice",
+    "location": "Point(13.8758 49.5025)",
+    "population": "981",
+    "area": "34.3169"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q581478",
+    "muniLabel": "Břeclav",
+    "location": "Point(16.882020775 48.758991122)",
+    "population": "24704",
+    "area": "77.185531"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019970",
+    "muniLabel": "Březnice",
+    "location": "Point(13.950670501 49.557721273)",
+    "population": "3523",
+    "area": "19.46634"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q647921",
+    "muniLabel": "Březová",
+    "location": "Point(12.65 50.1457)",
+    "population": "2725",
+    "area": "59.589449"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q648418",
+    "muniLabel": "Březová nad Svitavou",
+    "location": "Point(16.518 49.6442)",
+    "population": "1655",
+    "area": "12.702509"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1022223",
+    "muniLabel": "Břidličná",
+    "location": "Point(17.3711 49.9117)",
+    "population": "3129",
+    "area": "25.813746"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019326",
+    "muniLabel": "Chabařovice",
+    "location": "Point(13.941947767 50.673266572)",
+    "population": "2518",
+    "area": "16.89914"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q193719",
+    "muniLabel": "Cheb",
+    "location": "Point(12.373995588 50.079759165)",
+    "population": "31988",
+    "area": "96.353174"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q387840",
+    "muniLabel": "Chlumec",
+    "location": "Point(13.939745543 50.699804397)",
+    "population": "4380",
+    "area": "12.872495"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013858",
+    "muniLabel": "Chlumec nad Cidlinou",
+    "location": "Point(15.460334603 50.154454367)",
+    "population": "5462",
+    "area": "21.441977"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019936",
+    "muniLabel": "Choceň",
+    "location": "Point(16.223087674 50.001639149)",
+    "population": "8646",
+    "area": "21.696513"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q999937",
+    "muniLabel": "Chodov",
+    "location": "Point(12.753403883 50.241450598)",
+    "population": "13394",
+    "area": "14.260207"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q146356",
+    "muniLabel": "Chomutov",
+    "location": "Point(13.411111111 50.462777777)",
+    "population": "48720",
+    "area": "29.254168"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q430661",
+    "muniLabel": "Chotěboř",
+    "location": "Point(15.6702 49.7208)",
+    "population": "9250",
+    "area": "54.04834"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1076872",
+    "muniLabel": "Chrast",
+    "location": "Point(15.934019325 49.902090612)",
+    "population": "3098",
+    "area": "17.837829"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013885",
+    "muniLabel": "Chrastava",
+    "location": "Point(14.968948444 50.816985939)",
+    "population": "6281",
+    "area": "27.463963"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017232",
+    "muniLabel": "Chropyně",
+    "location": "Point(17.364532053 49.356449955)",
+    "population": "4889",
+    "area": "19.003751"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q986070",
+    "muniLabel": "Chrudim",
+    "location": "Point(15.79563579 49.951136279)",
+    "population": "23151",
+    "area": "33.209542"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1028241",
+    "muniLabel": "Chvaletice",
+    "location": "Point(15.4185 50.0345)",
+    "population": "2971",
+    "area": "8.500674"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013838",
+    "muniLabel": "Chyše",
+    "location": "Point(13.249140306 50.104731164)",
+    "population": "579",
+    "area": "28.624688"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1018863",
+    "muniLabel": "Chýnov",
+    "location": "Point(14.8112 49.4068)",
+    "population": "2480",
+    "area": "30.506359"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1091181",
+    "muniLabel": "Chřibská",
+    "location": "Point(14.483086016 50.863313762)",
+    "population": "1349",
+    "area": "15.956057"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008656",
+    "muniLabel": "Cvikov",
+    "location": "Point(14.633085701 50.776745075)",
+    "population": "4484",
+    "area": "45.05417"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013843",
+    "muniLabel": "Dačice",
+    "location": "Point(15.437278856 49.081598679)",
+    "population": "7325",
+    "area": "66.996794"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1027639",
+    "muniLabel": "Dašice",
+    "location": "Point(15.9125 50.0285)",
+    "population": "2303",
+    "area": "17.72684"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q149592",
+    "muniLabel": "Desná",
+    "location": "Point(15.302947428 50.759923158)",
+    "population": "3086",
+    "area": "12.576871"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1207480",
+    "muniLabel": "Deštná",
+    "location": "Point(14.924 49.2652)",
+    "population": "749",
+    "area": "12.697701"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1028040",
+    "muniLabel": "Dobrovice",
+    "location": "Point(14.962418289 50.36938823)",
+    "population": "3394",
+    "area": "24.63453"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1228928",
+    "muniLabel": "Dobruška",
+    "location": "Point(16.160091697 50.292047387)",
+    "population": "6727",
+    "area": "34.437002"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019360",
+    "muniLabel": "Dobřany",
+    "location": "Point(13.293116667 49.654927628)",
+    "population": "6154",
+    "area": "35.316044"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158280",
+    "muniLabel": "Dobřichovice",
+    "location": "Point(14.274756871 49.927572663)",
+    "population": "3675",
+    "area": "10.921526"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q16515",
+    "muniLabel": "Dobříš",
+    "location": "Point(14.167220871 49.781215974)",
+    "population": "8983",
+    "area": "53.418442"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1021090",
+    "muniLabel": "Doksy",
+    "location": "Point(14.655623164 50.564781686)",
+    "population": "5206",
+    "area": "74.961537"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1236048",
+    "muniLabel": "Dolní Benešov",
+    "location": "Point(18.1084 49.921)",
+    "population": "4043",
+    "area": "14.80506"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q936537",
+    "muniLabel": "Dolní Bousov",
+    "location": "Point(15.128214496 50.438305994)",
+    "population": "2761",
+    "area": "24.306706"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1023466",
+    "muniLabel": "Dolní Kounice",
+    "location": "Point(16.46492889 49.070143005)",
+    "population": "2453",
+    "area": "8.971343"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1236197",
+    "muniLabel": "Dolní Poustevna",
+    "location": "Point(14.286964218 50.982589027)",
+    "population": "1732",
+    "area": "11.053438"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q986068",
+    "muniLabel": "Domažlice",
+    "location": "Point(12.929798039 49.44060568)",
+    "population": "11150",
+    "area": "24.617656"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1263301",
+    "muniLabel": "Dubá",
+    "location": "Point(14.540330603 50.540413192)",
+    "population": "1723",
+    "area": "60.59789"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q601254",
+    "muniLabel": "Dubí",
+    "location": "Point(13.7889 50.6811)",
+    "population": "7870",
+    "area": "33.847494"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q579957",
+    "muniLabel": "Dubňany",
+    "location": "Point(17.090040442 48.916955312)",
+    "population": "6349",
+    "area": "22.581508"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158584",
+    "muniLabel": "Duchcov",
+    "location": "Point(13.746310094 50.603854793)",
+    "population": "8517",
+    "area": "15.404441"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q143664",
+    "muniLabel": "Dvůr Králové nad Labem",
+    "location": "Point(15.814108741 50.4317638)",
+    "population": "15594",
+    "area": "35.844379"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q146307",
+    "muniLabel": "Děčín",
+    "location": "Point(14.196111111 50.773611111)",
+    "population": "48809",
+    "area": "117.695618"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q756581",
+    "muniLabel": "Františkovy Lázně",
+    "location": "Point(12.351815213 50.120455065)",
+    "population": "5514",
+    "area": "25.761687"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q668695",
+    "muniLabel": "Frenštát pod Radhoštěm",
+    "location": "Point(18.210809609 49.54833455)",
+    "population": "10820",
+    "area": "11.433679"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1471150",
+    "muniLabel": "Fryšták",
+    "location": "Point(17.683480007 49.285206066)",
+    "population": "3697",
+    "area": "24.167909"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q48194",
+    "muniLabel": "Frýdek-Místek",
+    "location": "Point(18.353611111 49.688055555)",
+    "population": "55931",
+    "area": "51.55814"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q986077",
+    "muniLabel": "Frýdlant",
+    "location": "Point(15.079858729 50.921451823)",
+    "population": "7531",
+    "area": "31.616731"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1010131",
+    "muniLabel": "Frýdlant nad Ostravicí",
+    "location": "Point(18.359696643 49.592787662)",
+    "population": "9964",
+    "area": "21.909892"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q740915",
+    "muniLabel": "Fulnek",
+    "location": "Point(17.9032 49.7124)",
+    "population": "5656",
+    "area": "68.484195"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1011641",
+    "muniLabel": "Golčův Jeníkov",
+    "location": "Point(15.4769 49.8163)",
+    "population": "2673",
+    "area": "27.490777"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1018003",
+    "muniLabel": "Habartov",
+    "location": "Point(12.550615081 50.183085358)",
+    "population": "4846",
+    "area": "21.386907"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1566973",
+    "muniLabel": "Habry",
+    "location": "Point(15.4849 49.7561)",
+    "population": "1317",
+    "area": "27.427873"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q691467",
+    "muniLabel": "Hanušovice",
+    "location": "Point(16.936473689 50.080502172)",
+    "population": "3169",
+    "area": "36.813761"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q147816",
+    "muniLabel": "Harrachov",
+    "location": "Point(15.431521379 50.772136087)",
+    "population": "1421",
+    "area": "36.634961"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1501040",
+    "muniLabel": "Hartmanice",
+    "location": "Point(13.454574137 49.169580586)",
+    "population": "974",
+    "area": "62.196068"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q954596",
+    "muniLabel": "Havlíčkův Brod",
+    "location": "Point(15.580727658 49.607899638)",
+    "population": "23256",
+    "area": "64.934149"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q192904",
+    "muniLabel": "Havířov",
+    "location": "Point(18.422777777 49.777777777)",
+    "population": "71903",
+    "area": "32.076111"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q542224",
+    "muniLabel": "Hejnice",
+    "location": "Point(15.181790635 50.877254897)",
+    "population": "2721",
+    "area": "38.411447"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1617117",
+    "muniLabel": "Heřmanův Městec",
+    "location": "Point(15.664983771 49.947117687)",
+    "population": "4835",
+    "area": "14.342195"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1433206",
+    "muniLabel": "Hlinsko",
+    "location": "Point(15.907605681 49.762172981)",
+    "population": "9677",
+    "area": "24.269129"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1010144",
+    "muniLabel": "Hluboká nad Vltavou",
+    "location": "Point(14.434283204 49.05232881)",
+    "population": "5410",
+    "area": "91.106367"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013864",
+    "muniLabel": "Hluk",
+    "location": "Point(17.526680219 48.988126434)",
+    "population": "4340",
+    "area": "28.391462"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158257",
+    "muniLabel": "Hlučín",
+    "location": "Point(18.1920049 49.897939786)",
+    "population": "13953",
+    "area": "21.138542"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q29704",
+    "muniLabel": "Hodkovice nad Mohelkou",
+    "location": "Point(15.089953935 50.66592014)",
+    "population": "2944",
+    "area": "13.493253"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q321778",
+    "muniLabel": "Hodonín",
+    "location": "Point(17.132439069 48.848950584)",
+    "population": "24682",
+    "area": "63.305652"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q961325",
+    "muniLabel": "Holešov",
+    "location": "Point(17.578340885 49.333314366)",
+    "population": "11606",
+    "area": "33.941858"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1624693",
+    "muniLabel": "Holice",
+    "location": "Point(15.985965854 50.066050453)",
+    "population": "6574",
+    "area": "19.654216"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1625820",
+    "muniLabel": "Holýšov",
+    "location": "Point(13.101338813 49.593719918)",
+    "population": "5191",
+    "area": "29.316427"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1627837",
+    "muniLabel": "Hora Svaté Kateřiny",
+    "location": "Point(13.436821053 50.606405689)",
+    "population": "453",
+    "area": "18.458601"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q641158",
+    "muniLabel": "Horažďovice",
+    "location": "Point(13.701031041 49.32078181)",
+    "population": "5310",
+    "area": "43.039706"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1628630",
+    "muniLabel": "Horní Benešov",
+    "location": "Point(17.6027 49.9668)",
+    "population": "2253",
+    "area": "20.397673"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008677",
+    "muniLabel": "Horní Blatná",
+    "location": "Point(12.7710214 50.390495936)",
+    "population": "412",
+    "area": "5.626542"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1407742",
+    "muniLabel": "Horní Bříza",
+    "location": "Point(13.355637956 49.840223429)",
+    "population": "4213",
+    "area": "14.545063"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q740292",
+    "muniLabel": "Horní Cerekev",
+    "location": "Point(15.3277 49.3203)",
+    "population": "1822",
+    "area": "31.980648"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017282",
+    "muniLabel": "Horní Jelení",
+    "location": "Point(16.084 50.049)",
+    "population": "2058",
+    "area": "24.477514"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q944051",
+    "muniLabel": "Horní Jiřetín",
+    "location": "Point(13.547270714 50.573187678)",
+    "population": "2241",
+    "area": "39.858756"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1628741",
+    "muniLabel": "Horní Planá",
+    "location": "Point(14.032573238 48.767449964)",
+    "population": "2088",
+    "area": "127.166219"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q924085",
+    "muniLabel": "Horní Slavkov",
+    "location": "Point(12.807657708 50.138745037)",
+    "population": "5414",
+    "area": "36.867481"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q166255",
+    "muniLabel": "Horšovský Týn",
+    "location": "Point(12.944091023 49.529759792)",
+    "population": "5006",
+    "area": "71.306749"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000467",
+    "muniLabel": "Hostinné",
+    "location": "Point(15.7234 50.5407)",
+    "population": "4361",
+    "area": "8.06684"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1630623",
+    "muniLabel": "Hostivice",
+    "location": "Point(14.2586 50.0817)",
+    "population": "8546",
+    "area": "14.485917"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1630641",
+    "muniLabel": "Hostomice",
+    "location": "Point(14.0457 49.8253)",
+    "population": "1765",
+    "area": "28.263609"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q264897",
+    "muniLabel": "Hostouň",
+    "location": "Point(12.77151094 49.559825648)",
+    "population": "1325",
+    "area": "38.511289"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q927541",
+    "muniLabel": "Hořice",
+    "location": "Point(15.631918228 50.36613674)",
+    "population": "8621",
+    "area": "21.432187"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q978707",
+    "muniLabel": "Hořovice",
+    "location": "Point(13.902738643 49.836060857)",
+    "population": "6844",
+    "area": "9.54555"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632233",
+    "muniLabel": "Hoštka",
+    "location": "Point(14.3351 50.4887)",
+    "population": "1749",
+    "area": "18.802023"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q180139",
+    "muniLabel": "Hradec Králové",
+    "location": "Point(15.831944444 50.209166666)",
+    "population": "92742",
+    "area": "105.686167"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q668190",
+    "muniLabel": "Hradec nad Moravicí",
+    "location": "Point(17.8759 49.871)",
+    "population": "5489",
+    "area": "43.95766"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q638306",
+    "muniLabel": "Hranice",
+    "location": "Point(17.734723291 49.547963974)",
+    "population": "18057",
+    "area": "49.775368"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q933400",
+    "muniLabel": "Hranice",
+    "location": "Point(12.175858867 50.304715332)",
+    "population": "2129",
+    "area": "31.794362"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019471",
+    "muniLabel": "Hrob",
+    "location": "Point(13.726864584 50.659283194)",
+    "population": "1998",
+    "area": "11.110056"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2064097",
+    "muniLabel": "Hrochův Týnec",
+    "location": "Point(15.9106 49.9595)",
+    "population": "2021",
+    "area": "12.497868"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019365",
+    "muniLabel": "Hronov",
+    "location": "Point(16.182393097 50.479716909)",
+    "population": "6125",
+    "area": "22.036568"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632454",
+    "muniLabel": "Hrotovice",
+    "location": "Point(16.060686278 49.107739907)",
+    "population": "1751",
+    "area": "20.915119"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q786762",
+    "muniLabel": "Hroznětín",
+    "location": "Point(12.871887611 50.309509352)",
+    "population": "2041",
+    "area": "23.789221"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632522",
+    "muniLabel": "Hrušovany nad Jevišovkou",
+    "location": "Point(16.402703446 48.829942174)",
+    "population": "3330",
+    "area": "25.299742"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632615",
+    "muniLabel": "Hrádek",
+    "location": "Point(13.6542 49.71)",
+    "population": "2831",
+    "area": "6.052662"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q704033",
+    "muniLabel": "Hrádek nad Nisou",
+    "location": "Point(14.844661931 50.852852953)",
+    "population": "7722",
+    "area": "48.543008"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q541071",
+    "muniLabel": "Hulín",
+    "location": "Point(17.463758712 49.316900046)",
+    "population": "6819",
+    "area": "32.118828"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000060",
+    "muniLabel": "Humpolec",
+    "location": "Point(15.359357331 49.541577778)",
+    "population": "10894",
+    "area": "51.510592"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1638949",
+    "muniLabel": "Husinec",
+    "location": "Point(13.986986419 49.055048388)",
+    "population": "1451",
+    "area": "10.348098"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1023875",
+    "muniLabel": "Hustopeče",
+    "location": "Point(16.737622216 48.940871942)",
+    "population": "5964",
+    "area": "24.533215"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q163881",
+    "muniLabel": "Ivanovice na Hané",
+    "location": "Point(17.093450591 49.305433868)",
+    "population": "2942",
+    "area": "21.430812"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008686",
+    "muniLabel": "Ivančice",
+    "location": "Point(16.377529198 49.101477851)",
+    "population": "9742",
+    "area": "47.604942"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1676863",
+    "muniLabel": "Jablonec nad Jizerou",
+    "location": "Point(15.4297 50.7035)",
+    "population": "1645",
+    "area": "22.325906"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q147607",
+    "muniLabel": "Jablonec nad Nisou",
+    "location": "Point(15.17 50.727777777)",
+    "population": "45802",
+    "area": "31.382282"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1676870",
+    "muniLabel": "Jablonné nad Orlicí",
+    "location": "Point(16.6007 50.0297)",
+    "population": "3189",
+    "area": "4.378459"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158247",
+    "muniLabel": "Jablonné v Podještědí",
+    "location": "Point(14.760631796 50.765345012)",
+    "population": "3622",
+    "area": "57.877229"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q149108",
+    "muniLabel": "Jablunkov",
+    "location": "Point(18.764611504 49.576691347)",
+    "population": "5547",
+    "area": "10.386146"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1025172",
+    "muniLabel": "Janov",
+    "location": "Point(17.4813 50.2449)",
+    "population": "293",
+    "area": "11.030638"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1682956",
+    "muniLabel": "Janovice nad Úhlavou",
+    "location": "Point(13.218163623 49.345254151)",
+    "population": "2270",
+    "area": "28.477929"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019988",
+    "muniLabel": "Janské Lázně",
+    "location": "Point(15.781908509 50.631131119)",
+    "population": "699",
+    "area": "13.731364"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q999961",
+    "muniLabel": "Jaroměř",
+    "location": "Point(15.921447438 50.356235289)",
+    "population": "12433",
+    "area": "23.952616"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1023451",
+    "muniLabel": "Jaroměřice nad Rokytnou",
+    "location": "Point(15.893317828 49.094127133)",
+    "population": "4163",
+    "area": "51.370632"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1025158",
+    "muniLabel": "Javorník",
+    "location": "Point(17.002798599 50.390785886)",
+    "population": "2768",
+    "area": "77.424591"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1670040",
+    "muniLabel": "Jemnice",
+    "location": "Point(15.569944859 49.01903731)",
+    "population": "4001",
+    "area": "32.492271"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2192982",
+    "muniLabel": "Jesenice",
+    "location": "Point(14.5136 49.9682)",
+    "population": "9448",
+    "area": "17.535889"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1688065",
+    "muniLabel": "Jesenice",
+    "location": "Point(13.469556956 50.097127628)",
+    "population": "1719",
+    "area": "37.592091"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q954611",
+    "muniLabel": "Jeseník",
+    "location": "Point(17.204714793 50.229379845)",
+    "population": "11192",
+    "area": "38.232052"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641793",
+    "muniLabel": "Jevišovice",
+    "location": "Point(15.989930723 48.987406765)",
+    "population": "1168",
+    "area": "7.859286"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632450",
+    "muniLabel": "Jevíčko",
+    "location": "Point(16.71129434 49.632219117)",
+    "population": "2841",
+    "area": "23.220613"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q183111",
+    "muniLabel": "Jihlava",
+    "location": "Point(15.590555555 49.400277777)",
+    "population": "50845",
+    "area": "87.866195"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q368796",
+    "muniLabel": "Jilemnice",
+    "location": "Point(15.506628032 50.608944916)",
+    "population": "5391",
+    "area": "13.859019"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q368929",
+    "muniLabel": "Jindřichův Hradec",
+    "location": "Point(15.003024549 49.144110393)",
+    "population": "21445",
+    "area": "74.285974"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q149097",
+    "muniLabel": "Jirkov",
+    "location": "Point(13.447786301 50.499890572)",
+    "population": "19299",
+    "area": "17.128588"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2702822",
+    "muniLabel": "Jistebnice",
+    "location": "Point(14.527636483 49.485604981)",
+    "population": "2013",
+    "area": "57.985882"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q656603",
+    "muniLabel": "Jičín",
+    "location": "Point(15.351713997 50.437279002)",
+    "population": "16577",
+    "area": "24.950887"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641829",
+    "muniLabel": "Jiříkov",
+    "location": "Point(14.569219958 50.995208605)",
+    "population": "3640",
+    "area": "13.32679"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q830418",
+    "muniLabel": "Jáchymov",
+    "location": "Point(12.934739261 50.358572498)",
+    "population": "2511",
+    "area": "50.773227"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1715023",
+    "muniLabel": "Jílové",
+    "location": "Point(14.103945726 50.760901305)",
+    "population": "5147",
+    "area": "36.563844"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019335",
+    "muniLabel": "Jílové u Prahy",
+    "location": "Point(14.493387704 49.895520876)",
+    "population": "4770",
+    "area": "16.253971"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158274",
+    "muniLabel": "Kadaň",
+    "location": "Point(13.271397346 50.376085535)",
+    "population": "18202",
+    "area": "65.62341"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019961",
+    "muniLabel": "Kamenice nad Lipou",
+    "location": "Point(15.0752 49.3031)",
+    "population": "3766",
+    "area": "31.539631"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1722954",
+    "muniLabel": "Kamenický Šenov",
+    "location": "Point(14.472978263 50.773661412)",
+    "population": "3919",
+    "area": "10.467642"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q954808",
+    "muniLabel": "Kaplice",
+    "location": "Point(14.4963 48.7386)",
+    "population": "7164",
+    "area": "40.849505"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1729076",
+    "muniLabel": "Kardašova Řečice",
+    "location": "Point(14.8532 49.1848)",
+    "population": "2199",
+    "area": "45.829194"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q384544",
+    "muniLabel": "Karlovy Vary",
+    "location": "Point(12.8725 50.230555555)",
+    "population": "48501",
+    "area": "59.081798"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1027935",
+    "muniLabel": "Karolinka",
+    "location": "Point(18.240080792 49.351265244)",
+    "population": "2528",
+    "area": "42.149439"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q191793",
+    "muniLabel": "Karviná",
+    "location": "Point(18.542777777 49.854166666)",
+    "population": "52824",
+    "area": "57.521275"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641787",
+    "muniLabel": "Kasejovice",
+    "location": "Point(13.740636727 49.462791839)",
+    "population": "1292",
+    "area": "34.392782"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1737551",
+    "muniLabel": "Kaznějov",
+    "location": "Point(13.383 49.8932)",
+    "population": "3075",
+    "area": "12.301387"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q703182",
+    "muniLabel": "Kašperské Hory",
+    "location": "Point(13.556180572 49.142991503)",
+    "population": "1449",
+    "area": "44.128252"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1737652",
+    "muniLabel": "Kdyně",
+    "location": "Point(13.039710397 49.390878184)",
+    "population": "5169",
+    "area": "28.740828"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q573642",
+    "muniLabel": "Kelč",
+    "location": "Point(17.815359017 49.478439995)",
+    "population": "2689",
+    "area": "27.838021"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q155993",
+    "muniLabel": "Kladno",
+    "location": "Point(14.105277777 50.143055555)",
+    "population": "69054",
+    "area": "36.965946"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1744198",
+    "muniLabel": "Kladruby",
+    "location": "Point(12.979962138 49.715408235)",
+    "population": "1618",
+    "area": "48.601091"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q602976",
+    "muniLabel": "Klatovy",
+    "location": "Point(13.295088913 49.395625338)",
+    "population": "22233",
+    "area": "80.85169"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q291237",
+    "muniLabel": "Klecany",
+    "location": "Point(14.411557378 50.176063401)",
+    "population": "3589",
+    "area": "10.161205"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q176289",
+    "muniLabel": "Klimkovice",
+    "location": "Point(18.125896003 49.788082173)",
+    "population": "4468",
+    "area": "14.63677"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1023810",
+    "muniLabel": "Klobouky u Brna",
+    "location": "Point(16.859516743 48.99503415)",
+    "population": "2453",
+    "area": "31.270328"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158268",
+    "muniLabel": "Klášterec nad Ohří",
+    "location": "Point(13.171368113 50.384556821)",
+    "population": "14533",
+    "area": "53.786232"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008991",
+    "muniLabel": "Kojetín",
+    "location": "Point(17.3021 49.3518)",
+    "population": "6103",
+    "area": "31.093767"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q470369",
+    "muniLabel": "Kolín",
+    "location": "Point(15.200633745 50.02819399)",
+    "population": "31690",
+    "area": "34.993165"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1781657",
+    "muniLabel": "Konice",
+    "location": "Point(16.889147392 49.590315943)",
+    "population": "2784",
+    "area": "24.440153"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1784043",
+    "muniLabel": "Kopidlno",
+    "location": "Point(15.270376245 50.330906112)",
+    "population": "2080",
+    "area": "29.135836"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q849439",
+    "muniLabel": "Kopřivnice",
+    "location": "Point(18.144833283 49.599461028)",
+    "population": "21949",
+    "area": "27.487015"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q205616",
+    "muniLabel": "Koryčany",
+    "location": "Point(17.164336532 49.106405364)",
+    "population": "2756",
+    "area": "41.126123"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1394252",
+    "muniLabel": "Kosmonosy",
+    "location": "Point(14.930087921 50.43856201)",
+    "population": "5093",
+    "area": "11.384932"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1785187",
+    "muniLabel": "Kostelec na Hané",
+    "location": "Point(17.0583 49.514)",
+    "population": "2951",
+    "area": "13.860612"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1785189",
+    "muniLabel": "Kostelec nad Labem",
+    "location": "Point(14.585598774 50.226603627)",
+    "population": "4281",
+    "area": "15.552379"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1645575",
+    "muniLabel": "Kostelec nad Orlicí",
+    "location": "Point(16.2133 50.1227)",
+    "population": "6201",
+    "area": "26.204331"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641717",
+    "muniLabel": "Kostelec nad Černými lesy",
+    "location": "Point(14.8593 49.9941)",
+    "population": "3723",
+    "area": "17.698291"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q934703",
+    "muniLabel": "Kouřim",
+    "location": "Point(14.977096015 50.003119975)",
+    "population": "1885",
+    "area": "14.399566"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1430746",
+    "muniLabel": "Košťany",
+    "location": "Point(13.7556 50.6552)",
+    "population": "3166",
+    "area": "24.301863"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1785887",
+    "muniLabel": "Kožlany",
+    "location": "Point(13.541132603 49.993988077)",
+    "population": "1451",
+    "area": "29.104988"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017240",
+    "muniLabel": "Kralovice",
+    "location": "Point(13.487539689 49.982014872)",
+    "population": "3504",
+    "area": "39.801408"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q987496",
+    "muniLabel": "Kralupy nad Vltavou",
+    "location": "Point(14.311574668 50.241148972)",
+    "population": "18194",
+    "area": "21.900215"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000029",
+    "muniLabel": "Kraslice",
+    "location": "Point(12.517556147 50.323842588)",
+    "population": "6749",
+    "area": "81.345455"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q303478",
+    "muniLabel": "Kravaře",
+    "location": "Point(18.004772215 49.932024489)",
+    "population": "6695",
+    "area": "19.371105"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1789604",
+    "muniLabel": "Krnov",
+    "location": "Point(17.70390892 50.089666916)",
+    "population": "23397",
+    "area": "44.293533"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158239",
+    "muniLabel": "Kroměříž",
+    "location": "Point(17.393134863 49.297859972)",
+    "population": "28816",
+    "area": "50.975225"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q593629",
+    "muniLabel": "Krupka",
+    "location": "Point(13.858256809 50.684576839)",
+    "population": "12624",
+    "area": "46.608049"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1778456",
+    "muniLabel": "Kryry",
+    "location": "Point(13.4267 50.1745)",
+    "population": "2345",
+    "area": "39.449252"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1321460",
+    "muniLabel": "Králíky",
+    "location": "Point(16.760606276 50.083862294)",
+    "population": "4196",
+    "area": "52.776877"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1790512",
+    "muniLabel": "Králův Dvůr",
+    "location": "Point(14.0345 49.9499)",
+    "population": "9357",
+    "area": "15.238276"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1790515",
+    "muniLabel": "Krásno",
+    "location": "Point(12.78630142 50.109290025)",
+    "population": "709",
+    "area": "25.356279"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2278031",
+    "muniLabel": "Krásná Hora nad Vltavou",
+    "location": "Point(14.277462816 49.604686941)",
+    "population": "1107",
+    "area": "36.79998"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1757191",
+    "muniLabel": "Krásná Lípa",
+    "location": "Point(14.510107117 50.913102896)",
+    "population": "3453",
+    "area": "31.419051"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q528324",
+    "muniLabel": "Krásné Údolí",
+    "location": "Point(12.9213 50.0724)",
+    "population": "400",
+    "area": "9.163205"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q175197",
+    "muniLabel": "Kunovice",
+    "location": "Point(17.4701 49.045)",
+    "population": "5606",
+    "area": "28.549465"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1381784",
+    "muniLabel": "Kunštát",
+    "location": "Point(16.517252206 49.506479529)",
+    "population": "2787",
+    "area": "24.202321"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q155975",
+    "muniLabel": "Kutná Hora",
+    "location": "Point(15.268225887 49.948444972)",
+    "population": "20580",
+    "area": "33.071625"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000046",
+    "muniLabel": "Kuřim",
+    "location": "Point(16.531462119 49.298546446)",
+    "population": "10997",
+    "area": "17.195893"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q104587",
+    "muniLabel": "Kyjov",
+    "location": "Point(17.122531686 49.010193088)",
+    "population": "11218",
+    "area": "29.88399"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q188062",
+    "muniLabel": "Kynšperk nad Ohří",
+    "location": "Point(12.530346195 50.11904582)",
+    "population": "4789",
+    "area": "23.312378"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000033",
+    "muniLabel": "Lanškroun",
+    "location": "Point(16.61195451 49.912192261)",
+    "population": "9991",
+    "area": "20.654284"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q946780",
+    "muniLabel": "Lanžhot",
+    "location": "Point(16.966936264 48.724453275)",
+    "population": "3733",
+    "area": "54.81013"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1290479",
+    "muniLabel": "Ledeč nad Sázavou",
+    "location": "Point(15.2778 49.6952)",
+    "population": "5074",
+    "area": "17.010744"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632475",
+    "muniLabel": "Ledvice",
+    "location": "Point(13.772126579 50.585101934)",
+    "population": "544",
+    "area": "4.966689"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1010158",
+    "muniLabel": "Letohrad",
+    "location": "Point(16.498848119 50.035827763)",
+    "population": "6402",
+    "area": "23.544"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q652710",
+    "muniLabel": "Letovice",
+    "location": "Point(16.573608242 49.54711684)",
+    "population": "6745",
+    "area": "51.015097"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q146351",
+    "muniLabel": "Liberec",
+    "location": "Point(15.0584492 50.7699972)",
+    "population": "104445",
+    "area": "106.087154"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1010617",
+    "muniLabel": "Libochovice",
+    "location": "Point(14.04447776 50.406347518)",
+    "population": "3496",
+    "area": "15.640004"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641699",
+    "muniLabel": "Libušín",
+    "location": "Point(14.0547 50.1683)",
+    "population": "3346",
+    "area": "9.480601"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q388235",
+    "muniLabel": "Libáň",
+    "location": "Point(15.2169 50.3755)",
+    "population": "1764",
+    "area": "19.67454"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158456",
+    "muniLabel": "Libčice nad Vltavou",
+    "location": "Point(14.362753126 50.1991028)",
+    "population": "3383",
+    "area": "7.101057"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1823216",
+    "muniLabel": "Liběchov",
+    "location": "Point(14.4468 50.4079)",
+    "population": "1083",
+    "area": "11.774907"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1025109",
+    "muniLabel": "Lipnice nad Sázavou",
+    "location": "Point(15.413601512 49.613077554)",
+    "population": "654",
+    "area": "11.141516"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1021080",
+    "muniLabel": "Lipník nad Bečvou",
+    "location": "Point(17.586338342 49.527549239)",
+    "population": "8024",
+    "area": "30.606407"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q722732",
+    "muniLabel": "Litomyšl",
+    "location": "Point(16.310576465 49.872064383)",
+    "population": "10429",
+    "area": "33.450738"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q384403",
+    "muniLabel": "Litoměřice",
+    "location": "Point(14.131899491 50.533559476)",
+    "population": "24001",
+    "area": "17.987203"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q383850",
+    "muniLabel": "Litovel",
+    "location": "Point(17.076190647 49.701225181)",
+    "population": "9810",
+    "area": "46.396681"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q986082",
+    "muniLabel": "Litvínov",
+    "location": "Point(13.611212988 50.600779793)",
+    "population": "23884",
+    "area": "40.696708"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1564700",
+    "muniLabel": "Lišov",
+    "location": "Point(14.608389766 49.016044524)",
+    "population": "4405",
+    "area": "93.550256"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q936145",
+    "muniLabel": "Loket",
+    "location": "Point(12.754126076 50.18611597)",
+    "population": "3055",
+    "area": "26.733523"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q745031",
+    "muniLabel": "Lom",
+    "location": "Point(13.6574 50.5934)",
+    "population": "3700",
+    "area": "16.801196"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1818179",
+    "muniLabel": "Lomnice nad Lužnicí",
+    "location": "Point(14.7173 49.0848)",
+    "population": "1778",
+    "area": "18.887263"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1303768",
+    "muniLabel": "Lomnice nad Popelkou",
+    "location": "Point(15.373504846 50.530676536)",
+    "population": "5541",
+    "area": "25.575763"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q616877",
+    "muniLabel": "Louny",
+    "location": "Point(13.796762432 50.357078457)",
+    "population": "18351",
+    "area": "24.139311"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1872383",
+    "muniLabel": "Loučná pod Klínovcem",
+    "location": "Point(12.981577596 50.418684947)",
+    "population": "111",
+    "area": "20.889487"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000069",
+    "muniLabel": "Lovosice",
+    "location": "Point(14.051126534 50.515121498)",
+    "population": "8837",
+    "area": "11.893307"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1027959",
+    "muniLabel": "Loštice",
+    "location": "Point(16.928967697 49.744715583)",
+    "population": "2979",
+    "area": "11.999232"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q946789",
+    "muniLabel": "Luby",
+    "location": "Point(12.406029714 50.252601917)",
+    "population": "2146",
+    "area": "30.69399"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q933480",
+    "muniLabel": "Luhačovice",
+    "location": "Point(17.7575 49.0998)",
+    "population": "5045",
+    "area": "32.993713"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q225572",
+    "muniLabel": "Lučany nad Nisou",
+    "location": "Point(15.220569907 50.741410137)",
+    "population": "1859",
+    "area": "13.133418"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1020927",
+    "muniLabel": "Luže",
+    "location": "Point(16.028555373 49.893452667)",
+    "population": "2560",
+    "area": "30.708965"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1018859",
+    "muniLabel": "Lysá nad Labem",
+    "location": "Point(14.832888718 50.201496776)",
+    "population": "9717",
+    "area": "33.6739"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q920634",
+    "muniLabel": "Lázně Bohdaneč",
+    "location": "Point(15.679851974 50.075648554)",
+    "population": "3525",
+    "area": "21.78655"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017287",
+    "muniLabel": "Lázně Bělohrad",
+    "location": "Point(15.582779302 50.428791726)",
+    "population": "3665",
+    "area": "28.385816"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000097",
+    "muniLabel": "Lázně Kynžvart",
+    "location": "Point(12.62480695 50.010699307)",
+    "population": "1474",
+    "area": "32.578344"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q753289",
+    "muniLabel": "Malá Strana",
+    "location": "Point(14.403888888 50.088055555)",
+    "population": "5687"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641748",
+    "muniLabel": "Manětín",
+    "location": "Point(13.2333 49.9919)",
+    "population": "1142",
+    "area": "84.640105"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q523469",
+    "muniLabel": "Mariánské Lázně",
+    "location": "Point(12.701249703 49.964703891)",
+    "population": "12800",
+    "area": "51.792373"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1800827",
+    "muniLabel": "Mašťov",
+    "location": "Point(13.2805 50.2624)",
+    "population": "570",
+    "area": "23.051181"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1021103",
+    "muniLabel": "Meziboří",
+    "location": "Point(13.598802095 50.621246387)",
+    "population": "4810",
+    "area": "14.36308"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1150268",
+    "muniLabel": "Meziměstí",
+    "location": "Point(16.2422 50.6246)",
+    "population": "2429",
+    "area": "25.707158"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q682544",
+    "muniLabel": "Mikulov",
+    "location": "Point(16.637789181 48.805586996)",
+    "population": "7359",
+    "area": "45.317984"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1756925",
+    "muniLabel": "Mikulášovice",
+    "location": "Point(14.363801827 50.965147575)",
+    "population": "2189",
+    "area": "25.848187"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632441",
+    "muniLabel": "Miletín",
+    "location": "Point(15.6823 50.4039)",
+    "population": "912",
+    "area": "8.933549"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1015011",
+    "muniLabel": "Milevsko",
+    "location": "Point(14.360040178 49.45097206)",
+    "population": "8277",
+    "area": "42.318226"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q766465",
+    "muniLabel": "Milovice",
+    "location": "Point(14.888710216 50.226024627)",
+    "population": "11834",
+    "area": "28.308484"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q149229",
+    "muniLabel": "Mimoň",
+    "location": "Point(14.724839569 50.658755425)",
+    "population": "6434",
+    "area": "15.48"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q763045",
+    "muniLabel": "Miroslav",
+    "location": "Point(16.31252408 48.947705087)",
+    "population": "2945",
+    "area": "26.599876"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641811",
+    "muniLabel": "Mirotice",
+    "location": "Point(14.037 49.4292)",
+    "population": "1222",
+    "area": "25.600411"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641693",
+    "muniLabel": "Mirovice",
+    "location": "Point(14.0359 49.5156)",
+    "population": "1614",
+    "area": "22.041784"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q959574",
+    "muniLabel": "Mirošov",
+    "location": "Point(13.6581 49.6879)",
+    "population": "2263",
+    "area": "13.630428"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q191805",
+    "muniLabel": "Mladá Boleslav",
+    "location": "Point(14.906388888 50.4125)",
+    "population": "44489",
+    "area": "28.903499"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1456612",
+    "muniLabel": "Mladá Vožice",
+    "location": "Point(14.808604191 49.533195784)",
+    "population": "2704",
+    "area": "31.591229"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1027943",
+    "muniLabel": "Mnichovice",
+    "location": "Point(14.7091 49.9361)",
+    "population": "3861",
+    "area": "8.321334"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017769",
+    "muniLabel": "Mnichovo Hradiště",
+    "location": "Point(14.9714 50.5273)",
+    "population": "8729",
+    "area": "34.320294"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2427117",
+    "muniLabel": "Mníšek pod Brdy",
+    "location": "Point(14.2618 49.8666)",
+    "population": "5832",
+    "area": "26.498681"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q915051",
+    "muniLabel": "Modřice",
+    "location": "Point(16.614423928 49.127917307)",
+    "population": "5296",
+    "area": "10.050499"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q587388",
+    "muniLabel": "Mohelnice",
+    "location": "Point(16.9195 49.777)",
+    "population": "9189",
+    "area": "46.20022"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000078",
+    "muniLabel": "Moravská Třebová",
+    "location": "Point(16.664303989 49.757953873)",
+    "population": "10070",
+    "area": "42.047481"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019956",
+    "muniLabel": "Moravské Budějovice",
+    "location": "Point(15.808653302 49.052136027)",
+    "population": "7364",
+    "area": "37.131503"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1015933",
+    "muniLabel": "Moravský Beroun",
+    "location": "Point(17.442162192 49.793747764)",
+    "population": "2957",
+    "area": "51.224091"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q761439",
+    "muniLabel": "Moravský Krumlov",
+    "location": "Point(16.311702605 49.048965931)",
+    "population": "5729",
+    "area": "49.558098"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1948234",
+    "muniLabel": "Morkovice-Slížany",
+    "location": "Point(17.207838904 49.247997076)",
+    "population": "2924",
+    "area": "21.149066"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q146363",
+    "muniLabel": "Most",
+    "location": "Point(13.636666666 50.503055555)",
+    "population": "66186",
+    "area": "86.94131"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1475736",
+    "muniLabel": "Mýto",
+    "location": "Point(13.734668734 49.789138219)",
+    "population": "1538",
+    "area": "17.804708"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q320939",
+    "muniLabel": "Mělník",
+    "location": "Point(14.474193495 50.350570679)",
+    "population": "19486",
+    "area": "24.961871"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1861138",
+    "muniLabel": "Městec Králové",
+    "location": "Point(15.297657206 50.207235649)",
+    "population": "2877",
+    "area": "19.868987"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019339",
+    "muniLabel": "Město Albrechtice",
+    "location": "Point(17.574874111 50.162940734)",
+    "population": "3529",
+    "area": "65.279503"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q929808",
+    "muniLabel": "Město Touškov",
+    "location": "Point(13.2511 49.776)",
+    "population": "2187",
+    "area": "9.632041"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1588293",
+    "muniLabel": "Měčín",
+    "location": "Point(13.4029 49.4802)",
+    "population": "1145",
+    "area": "38.898622"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1010667",
+    "muniLabel": "Mšeno",
+    "location": "Point(14.63259283 50.43816122)",
+    "population": "1431",
+    "area": "26.735008"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1014994",
+    "muniLabel": "Nalžovské Hory",
+    "location": "Point(13.549639891 49.33367727)",
+    "population": "1172",
+    "area": "51.289941"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019083",
+    "muniLabel": "Napajedla",
+    "location": "Point(17.511955085 49.171564523)",
+    "population": "7222",
+    "area": "19.826361"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q985047",
+    "muniLabel": "Nasavrky",
+    "location": "Point(15.80466117 49.844541582)",
+    "population": "1679",
+    "area": "12.56551"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1756908",
+    "muniLabel": "Nechanice",
+    "location": "Point(15.6328 50.2374)",
+    "population": "2329",
+    "area": "27.985672"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q431111",
+    "muniLabel": "Nejdek",
+    "location": "Point(12.729443668 50.322532483)",
+    "population": "7807",
+    "area": "52.271499"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q842929",
+    "muniLabel": "Nepomuk",
+    "location": "Point(13.582292906 49.486259587)",
+    "population": "3732",
+    "area": "12.782165"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q239597",
+    "muniLabel": "Neratovice",
+    "location": "Point(14.517675172 50.259331649)",
+    "population": "16163",
+    "area": "20.002941"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1531214",
+    "muniLabel": "Netolice",
+    "location": "Point(14.197 49.0494)",
+    "population": "2587",
+    "area": "26.34785"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641681",
+    "muniLabel": "Neveklov",
+    "location": "Point(14.532957214 49.753805966)",
+    "population": "2638",
+    "area": "54.460494"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1935413",
+    "muniLabel": "Nová Bystřice",
+    "location": "Point(15.103166868 49.019322192)",
+    "population": "3281",
+    "area": "81.795238"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017251",
+    "muniLabel": "Nová Paka",
+    "location": "Point(15.515123613 50.494542634)",
+    "population": "9094",
+    "area": "28.682653"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1009009",
+    "muniLabel": "Nová Role",
+    "location": "Point(12.7843 50.271)",
+    "population": "4161",
+    "area": "13.533128"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1861156",
+    "muniLabel": "Nová Včelnice",
+    "location": "Point(15.0726 49.2394)",
+    "population": "2254",
+    "area": "10.103173"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019355",
+    "muniLabel": "Nové Hrady",
+    "location": "Point(14.778383079 48.789702265)",
+    "population": "2524",
+    "area": "79.749635"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q986075",
+    "muniLabel": "Nové Město na Moravě",
+    "location": "Point(16.074220542 49.561481877)",
+    "population": "10098",
+    "area": "61.126471"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019675",
+    "muniLabel": "Nové Město nad Metují",
+    "location": "Point(16.151547223 50.34459888)",
+    "population": "9436",
+    "area": "23.13258"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1861148",
+    "muniLabel": "Nové Město pod Smrkem",
+    "location": "Point(15.2295 50.925)",
+    "population": "3674",
+    "area": "28.927635"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017806",
+    "muniLabel": "Nové Sedlo",
+    "location": "Point(12.7381 50.2066)",
+    "population": "2599",
+    "area": "16.977664"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1015273",
+    "muniLabel": "Nové Strašecí",
+    "location": "Point(13.900503723 50.152805461)",
+    "population": "5517",
+    "area": "13.319125"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000086",
+    "muniLabel": "Nový Bor",
+    "location": "Point(14.555662165 50.757681178)",
+    "population": "11678",
+    "area": "19.441704"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1018857",
+    "muniLabel": "Nový Bydžov",
+    "location": "Point(15.490898003 50.241552543)",
+    "population": "6986",
+    "area": "35.27148"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q3584",
+    "muniLabel": "Nový Jičín",
+    "location": "Point(18.010308756 49.594368444)",
+    "population": "23496",
+    "area": "36.521371"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q968615",
+    "muniLabel": "Nový Knín",
+    "location": "Point(14.293608932 49.788083396)",
+    "population": "2039",
+    "area": "29.621732"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q430864",
+    "muniLabel": "Nymburk",
+    "location": "Point(15.041747256 50.186115487)",
+    "population": "15063",
+    "area": "20.588126"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q591823",
+    "muniLabel": "Náchod",
+    "location": "Point(16.162974008 50.416738226)",
+    "population": "19979",
+    "area": "33.343135"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2427155",
+    "muniLabel": "Náměšť nad Oslavou",
+    "location": "Point(16.158503502 49.207301366)",
+    "population": "4871",
+    "area": "18.626478"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1756903",
+    "muniLabel": "Nýrsko",
+    "location": "Point(13.1436 49.294)",
+    "population": "4920",
+    "area": "31.544545"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017227",
+    "muniLabel": "Nýřany",
+    "location": "Point(13.2119 49.7116)",
+    "population": "6975",
+    "area": "22.784373"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2007259",
+    "muniLabel": "Němčice nad Hanou",
+    "location": "Point(17.205985962 49.341827353)",
+    "population": "1999",
+    "area": "12.065012"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1852542",
+    "muniLabel": "Odolena Voda",
+    "location": "Point(14.410860235 50.233487444)",
+    "population": "6022",
+    "area": "11.238201"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1018329",
+    "muniLabel": "Odry",
+    "location": "Point(17.8309 49.6625)",
+    "population": "7227",
+    "area": "74.050648"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019349",
+    "muniLabel": "Olešnice",
+    "location": "Point(16.421726188 49.557585032)",
+    "population": "1672",
+    "area": "12.518258"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q81137",
+    "muniLabel": "Olomouc",
+    "location": "Point(17.250833333 49.593888888)",
+    "population": "100523",
+    "area": "103.334582"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017054",
+    "muniLabel": "Oloví",
+    "location": "Point(12.5588 50.2513)",
+    "population": "1672",
+    "area": "19.04854"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q156080",
+    "muniLabel": "Opava",
+    "location": "Point(17.904444444 49.938055555)",
+    "population": "56638",
+    "area": "90.60987"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019967",
+    "muniLabel": "Opočno",
+    "location": "Point(16.1149 50.2675)",
+    "population": "3136",
+    "area": "14.010846"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q386026",
+    "muniLabel": "Orlová",
+    "location": "Point(18.430155445 49.84524799)",
+    "population": "28852",
+    "area": "24.66913"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q546673",
+    "muniLabel": "Osek",
+    "location": "Point(13.686 50.6228)",
+    "population": "4757",
+    "area": "42.368424"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1761692",
+    "muniLabel": "Osečná",
+    "location": "Point(14.9215 50.695)",
+    "population": "1116",
+    "area": "28.051406"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1756935",
+    "muniLabel": "Oslavany",
+    "location": "Point(16.336541091 49.123380208)",
+    "population": "4693",
+    "area": "18.709463"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q8385",
+    "muniLabel": "Ostrava",
+    "location": "Point(18.2925 49.835555555)",
+    "population": "289128",
+    "area": "214.229602"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q987487",
+    "muniLabel": "Ostrov",
+    "location": "Point(12.939153516 50.306035004)",
+    "population": "16731",
+    "area": "50.406529"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1009095",
+    "muniLabel": "Otrokovice",
+    "location": "Point(17.530780558 49.209921755)",
+    "population": "17876",
+    "area": "19.626638"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q746111",
+    "muniLabel": "Pacov",
+    "location": "Point(15.001713769 49.470826885)",
+    "population": "4758",
+    "area": "35.860716"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q36989",
+    "muniLabel": "Pardubice",
+    "location": "Point(15.77916 50.03861)",
+    "population": "90688",
+    "area": "82.655058"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2010709",
+    "muniLabel": "Paskov",
+    "location": "Point(18.290408503 49.731772546)",
+    "population": "3890",
+    "area": "11.80079"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641742",
+    "muniLabel": "Pec pod Sněžkou",
+    "location": "Point(15.733247715 50.693494302)",
+    "population": "657",
+    "area": "52.104926"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000073",
+    "muniLabel": "Pelhřimov",
+    "location": "Point(15.223389364 49.431396763)",
+    "population": "16069",
+    "area": "95.275219"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q390177",
+    "muniLabel": "Petřvald",
+    "location": "Point(18.3894 49.831)",
+    "population": "7190",
+    "area": "12.628623"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1813776",
+    "muniLabel": "Pečky",
+    "location": "Point(15.0302 50.0905)",
+    "population": "4769",
+    "area": "10.763452"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1810187",
+    "muniLabel": "Pilníkov",
+    "location": "Point(15.8203 50.5325)",
+    "population": "1269",
+    "area": "16.986787"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1756940",
+    "muniLabel": "Planá",
+    "location": "Point(12.7438 49.8683)",
+    "population": "5413",
+    "area": "62.462962"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q590362",
+    "muniLabel": "Planá nad Lužnicí",
+    "location": "Point(14.7015 49.3545)",
+    "population": "4132",
+    "area": "21.418116"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008589",
+    "muniLabel": "Plasy",
+    "location": "Point(13.390418528 49.934590172)",
+    "population": "2715",
+    "area": "57.141307"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q775651",
+    "muniLabel": "Plesná",
+    "location": "Point(12.3468 50.2208)",
+    "population": "1935",
+    "area": "19.256428"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1023454",
+    "muniLabel": "Plumlov",
+    "location": "Point(17.015 49.4662)",
+    "population": "2304",
+    "area": "11.517943"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q43453",
+    "muniLabel": "Plzeň",
+    "location": "Point(13.3825 49.741388888)",
+    "population": "172441",
+    "area": "137.671042"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q639814",
+    "muniLabel": "Plánice",
+    "location": "Point(13.4711 49.39)",
+    "population": "1653",
+    "area": "55.611865"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1756960",
+    "muniLabel": "Poběžovice",
+    "location": "Point(12.8026516 49.510410536)",
+    "population": "1574",
+    "area": "27.824345"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017247",
+    "muniLabel": "Podbořany",
+    "location": "Point(13.412 50.2295)",
+    "population": "6368",
+    "area": "60.163939"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1023848",
+    "muniLabel": "Podivín",
+    "location": "Point(16.848213144 48.825563494)",
+    "population": "3011",
+    "area": "17.750306"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q683165",
+    "muniLabel": "Poděbrady",
+    "location": "Point(15.11888478 50.142477809)",
+    "population": "14186",
+    "area": "33.680139"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641736",
+    "muniLabel": "Pohořelice",
+    "location": "Point(16.524457138 48.981217409)",
+    "population": "5051",
+    "area": "43.044986"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q508591",
+    "muniLabel": "Police nad Metují",
+    "location": "Point(16.233596891 50.536901799)",
+    "population": "4086",
+    "area": "24.411311"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013914",
+    "muniLabel": "Polička",
+    "location": "Point(16.265478874 49.71467939)",
+    "population": "8748",
+    "area": "33.117415"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158263",
+    "muniLabel": "Polná",
+    "location": "Point(15.718844195 49.487044946)",
+    "population": "5141",
+    "area": "37.77178"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019831",
+    "muniLabel": "Postoloprty",
+    "location": "Point(13.702996227 50.359880648)",
+    "population": "4716",
+    "area": "46.556419"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641754",
+    "muniLabel": "Potštát",
+    "location": "Point(17.651771951 49.636927868)",
+    "population": "1179",
+    "area": "34.072616"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632616",
+    "muniLabel": "Počátky",
+    "location": "Point(15.2402 49.2603)",
+    "population": "2551",
+    "area": "30.83649"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q327764",
+    "muniLabel": "Prachatice",
+    "location": "Point(13.997533003 49.013013368)",
+    "population": "10874",
+    "area": "38.918518"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1085",
+    "muniLabel": "Praha",
+    "location": "Point(14.416666666 50.083333333)",
+    "population": "1308632",
+    "area": "496.21"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1416480",
+    "muniLabel": "Proseč",
+    "location": "Point(16.1163 49.8059)",
+    "population": "2084",
+    "area": "34.030331"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q470445",
+    "muniLabel": "Prostějov",
+    "location": "Point(17.110555555 49.472222222)",
+    "population": "43680",
+    "area": "39.040023"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017045",
+    "muniLabel": "Protivín",
+    "location": "Point(14.217196303 49.199569401)",
+    "population": "4830",
+    "area": "61.459112"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q668247",
+    "muniLabel": "Pyšely",
+    "location": "Point(14.6772 49.8769)",
+    "population": "1971",
+    "area": "12.810151"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158245",
+    "muniLabel": "Písek",
+    "location": "Point(14.147530601 49.308880686)",
+    "population": "30351",
+    "area": "63.230237"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q431739",
+    "muniLabel": "Přebuz",
+    "location": "Point(12.620128905 50.365895082)",
+    "population": "73",
+    "area": "29.792014"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1018341",
+    "muniLabel": "Přelouč",
+    "location": "Point(15.560373291 50.039897141)",
+    "population": "9659",
+    "area": "30.468957"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q470380",
+    "muniLabel": "Přerov",
+    "location": "Point(17.451111111 49.455555555)",
+    "population": "43186",
+    "area": "58.449374"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1020874",
+    "muniLabel": "Přeštice",
+    "location": "Point(13.333542808 49.573084901)",
+    "population": "7114",
+    "area": "25.403098"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q161060",
+    "muniLabel": "Přibyslav",
+    "location": "Point(15.738585389 49.576885241)",
+    "population": "4012",
+    "area": "35.315858"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019844",
+    "muniLabel": "Přimda",
+    "location": "Point(12.673709997 49.674995751)",
+    "population": "1584",
+    "area": "50.639415"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q654019",
+    "muniLabel": "Příbor",
+    "location": "Point(18.145022037 49.640926771)",
+    "population": "8452",
+    "area": "22.152179"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q841296",
+    "muniLabel": "Příbram",
+    "location": "Point(14.010474512 49.68996461)",
+    "population": "32642",
+    "area": "33.453008"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2092696",
+    "muniLabel": "Rabí",
+    "location": "Point(13.617637249 49.280837729)",
+    "population": "503",
+    "area": "14.324331"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1520116",
+    "muniLabel": "Radnice",
+    "location": "Point(13.605762149 49.856867644)",
+    "population": "1832",
+    "area": "10.650382"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1279557",
+    "muniLabel": "Rajhrad",
+    "location": "Point(16.603886389 49.090238953)",
+    "population": "3852",
+    "area": "9.493542"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q985465",
+    "muniLabel": "Rakovník",
+    "location": "Point(13.733472751 50.103792787)",
+    "population": "15846",
+    "area": "18.501391"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2069370",
+    "muniLabel": "Ralsko",
+    "location": "Point(14.804217154 50.585570576)",
+    "population": "2117",
+    "area": "170.229263"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1258284",
+    "muniLabel": "Raspenava",
+    "location": "Point(15.1148 50.9042)",
+    "population": "2851",
+    "area": "41.217371"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2034281",
+    "muniLabel": "Rejštejn",
+    "location": "Point(13.5152 49.1406)",
+    "population": "255",
+    "area": "30.432289"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q986072",
+    "muniLabel": "Rokycany",
+    "location": "Point(13.594638741 49.742793661)",
+    "population": "14192",
+    "area": "30.673057"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1894625",
+    "muniLabel": "Rokytnice nad Jizerou",
+    "location": "Point(15.433679878 50.725660992)",
+    "population": "2640",
+    "area": "36.944947"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1720340",
+    "muniLabel": "Rokytnice v Orlických horách",
+    "location": "Point(16.4657 50.1648)",
+    "population": "2022",
+    "area": "40.197396"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1420776",
+    "muniLabel": "Ronov nad Doubravou",
+    "location": "Point(15.5315 49.8883)",
+    "population": "1686",
+    "area": "17.012788"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1025213",
+    "muniLabel": "Rosice",
+    "location": "Point(16.387885945 49.182352008)",
+    "population": "6237",
+    "area": "12.739936"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017261",
+    "muniLabel": "Rotava",
+    "location": "Point(12.5735 50.2964)",
+    "population": "2999",
+    "area": "12.027078"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q63855",
+    "muniLabel": "Roudnice nad Labem",
+    "location": "Point(14.261840817 50.42536108)",
+    "population": "12967",
+    "area": "16.674038"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1818241",
+    "muniLabel": "Rousínov",
+    "location": "Point(16.882160941 49.201302411)",
+    "population": "5673",
+    "area": "23.049615"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2164902",
+    "muniLabel": "Rovensko pod Troskami",
+    "location": "Point(15.2595 50.5354)",
+    "population": "1277",
+    "area": "12.807752"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1756968",
+    "muniLabel": "Roztoky",
+    "location": "Point(14.397679313 50.158489314)",
+    "population": "8529",
+    "area": "8.188996"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q646294",
+    "muniLabel": "Rožmberk nad Vltavou",
+    "location": "Point(14.365155507 48.654332189)",
+    "population": "364",
+    "area": "24.812979"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2092257",
+    "muniLabel": "Rožmitál pod Třemšínem",
+    "location": "Point(13.864345146 49.602046222)",
+    "population": "4375",
+    "area": "52.972451"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008696",
+    "muniLabel": "Rožnov pod Radhoštěm",
+    "location": "Point(18.143045316 49.45851736)",
+    "population": "16420",
+    "area": "39.48231"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2003956",
+    "muniLabel": "Rožďalovice",
+    "location": "Point(15.1697 50.3048)",
+    "population": "1629",
+    "area": "23.907979"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2092235",
+    "muniLabel": "Rtyně v Podkrkonoší",
+    "location": "Point(16.071958352 50.50526642)",
+    "population": "2997",
+    "area": "13.886379"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632354",
+    "muniLabel": "Rudná",
+    "location": "Point(14.2344 50.0351)",
+    "population": "5137",
+    "area": "8.196133"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1713787",
+    "muniLabel": "Rudolfov",
+    "location": "Point(14.541798472 48.99346881)",
+    "population": "2544",
+    "area": "3.193857"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q149103",
+    "muniLabel": "Rumburk",
+    "location": "Point(14.557110137 50.951576367)",
+    "population": "11082",
+    "area": "24.717542"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000091",
+    "muniLabel": "Rychnov nad Kněžnou",
+    "location": "Point(16.274954757 50.162870787)",
+    "population": "10998",
+    "area": "34.988805"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1852613",
+    "muniLabel": "Rychnov u Jablonce nad Nisou",
+    "location": "Point(15.149892975 50.683846705)",
+    "population": "2749",
+    "area": "12.257191"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1018854",
+    "muniLabel": "Rychvald",
+    "location": "Point(18.3763 49.8662)",
+    "population": "7457",
+    "area": "17.020886"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q646364",
+    "muniLabel": "Rájec-Jestřebí",
+    "location": "Point(16.639046717 49.410967423)",
+    "population": "3737",
+    "area": "15.670828"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013850",
+    "muniLabel": "Rýmařov",
+    "location": "Point(17.271821662 49.931838496)",
+    "population": "8247",
+    "area": "60.727918"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1298137",
+    "muniLabel": "Sadská",
+    "location": "Point(14.9864 50.136)",
+    "population": "3234",
+    "area": "16.440829"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q368888",
+    "muniLabel": "Sedlec-Prčice",
+    "location": "Point(14.532639189 49.571904594)",
+    "population": "2854",
+    "area": "64.130898"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q742108",
+    "muniLabel": "Sedlice",
+    "location": "Point(13.938986162 49.377240987)",
+    "population": "1252",
+    "area": "30.526647"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q630358",
+    "muniLabel": "Sedlčany",
+    "location": "Point(14.426685295 49.660649523)",
+    "population": "7080",
+    "area": "36.46308"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008737",
+    "muniLabel": "Semily",
+    "location": "Point(15.335619799 50.601957959)",
+    "population": "8367",
+    "area": "16.308533"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1027617",
+    "muniLabel": "Sezemice",
+    "location": "Point(15.8528 50.0665)",
+    "population": "3945",
+    "area": "22.154743"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q958157",
+    "muniLabel": "Sezimovo Ústí",
+    "location": "Point(14.684835568 49.38525867)",
+    "population": "7257",
+    "area": "8.442576"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q282028",
+    "muniLabel": "Seč",
+    "location": "Point(15.656480158 49.846985019)",
+    "population": "1720",
+    "area": "36.681187"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q946743",
+    "muniLabel": "Skalná",
+    "location": "Point(12.3615 50.1704)",
+    "population": "1999",
+    "area": "23.43738"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1332942",
+    "muniLabel": "Skuteč",
+    "location": "Point(15.996602726 49.843507732)",
+    "population": "5046",
+    "area": "35.4028"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013909",
+    "muniLabel": "Slaný",
+    "location": "Point(14.087014267 50.23054117)",
+    "population": "15834",
+    "area": "35.11295"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1757182",
+    "muniLabel": "Slatiňany",
+    "location": "Point(15.813826736 49.92113996)",
+    "population": "4187",
+    "area": "15.605117"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641705",
+    "muniLabel": "Slavičín",
+    "location": "Point(17.873493344 49.087983788)",
+    "population": "6468",
+    "area": "33.657102"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q193724",
+    "muniLabel": "Slavkov u Brna",
+    "location": "Point(16.876504369 49.153275386)",
+    "population": "6694",
+    "area": "14.946447"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1727398",
+    "muniLabel": "Slavonice",
+    "location": "Point(15.351545845 48.997591273)",
+    "population": "2386",
+    "area": "45.808493"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q597011",
+    "muniLabel": "Slušovice",
+    "location": "Point(17.8015 49.2478)",
+    "population": "2980",
+    "area": "7.106739"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1022963",
+    "muniLabel": "Smečno",
+    "location": "Point(14.040442643 50.188522208)",
+    "population": "1962",
+    "area": "9.58841"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2093942",
+    "muniLabel": "Smiřice",
+    "location": "Point(15.865155425 50.299821713)",
+    "population": "2899",
+    "area": "10.67621"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1936067",
+    "muniLabel": "Smržovka",
+    "location": "Point(15.2465 50.7383)",
+    "population": "3751",
+    "area": "14.814905"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q942842",
+    "muniLabel": "Smíchov",
+    "location": "Point(14.405556 50.075278)",
+    "population": "33460"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1756917",
+    "muniLabel": "Sobotka",
+    "location": "Point(15.176282856 50.467471687)",
+    "population": "2371",
+    "area": "19.328102"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q615138",
+    "muniLabel": "Soběslav",
+    "location": "Point(14.718638675 49.260006346)",
+    "population": "6968",
+    "area": "19.995083"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q727383",
+    "muniLabel": "Sokolov",
+    "location": "Point(12.640181474 50.181415762)",
+    "population": "23241",
+    "area": "22.917462"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q742932",
+    "muniLabel": "Solnice",
+    "location": "Point(16.2377 50.2037)",
+    "population": "2188",
+    "area": "12.661143"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641712",
+    "muniLabel": "Spálené Poříčí",
+    "location": "Point(13.6056 49.6138)",
+    "population": "2820",
+    "area": "57.819744"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q748211",
+    "muniLabel": "Staré Město",
+    "location": "Point(14.4203 50.0847)",
+    "population": "8705",
+    "area": "1.29"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1444566",
+    "muniLabel": "Staré Město",
+    "location": "Point(16.947409616 50.161751097)",
+    "population": "1726",
+    "area": "86.268812"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1009003",
+    "muniLabel": "Staré Město",
+    "location": "Point(17.433385613 49.075157294)",
+    "population": "6652",
+    "area": "20.83246"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641774",
+    "muniLabel": "Starý Plzenec",
+    "location": "Point(13.473552493 49.697776983)",
+    "population": "5105",
+    "area": "18.373205"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1632458",
+    "muniLabel": "Staňkov",
+    "location": "Point(13.0698 49.5536)",
+    "population": "3317",
+    "area": "20.494813"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158432",
+    "muniLabel": "Stochov",
+    "location": "Point(13.963525918 50.146392291)",
+    "population": "5416",
+    "area": "9.495071"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1011066",
+    "muniLabel": "Stod",
+    "location": "Point(13.164783971 49.639196063)",
+    "population": "3589",
+    "area": "20.036659"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q750224",
+    "muniLabel": "Strakonice",
+    "location": "Point(13.902396874 49.261497897)",
+    "population": "22754",
+    "area": "34.679515"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q937688",
+    "muniLabel": "Strmilov",
+    "location": "Point(15.1994 49.1585)",
+    "population": "1425",
+    "area": "30.607778"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641823",
+    "muniLabel": "Stráž nad Nežárkou",
+    "location": "Point(14.9055 49.0698)",
+    "population": "862",
+    "area": "36.293921"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1761686",
+    "muniLabel": "Stráž pod Ralskem",
+    "location": "Point(14.8011 50.7029)",
+    "population": "3977",
+    "area": "21.580331"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q304189",
+    "muniLabel": "Strážnice",
+    "location": "Point(17.316799472 48.901029956)",
+    "population": "5560",
+    "area": "31.409647"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q580155",
+    "muniLabel": "Strážov",
+    "location": "Point(13.246263588 49.303366809)",
+    "population": "1417",
+    "area": "35.704685"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019371",
+    "muniLabel": "Studénka",
+    "location": "Point(18.078565781 49.723408972)",
+    "population": "9536",
+    "area": "30.919686"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q663186",
+    "muniLabel": "Stárkov",
+    "location": "Point(16.1583 50.534)",
+    "population": "644",
+    "area": "16.526299"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008750",
+    "muniLabel": "Stříbro",
+    "location": "Point(13.004146255 49.753048391)",
+    "population": "7680",
+    "area": "47.776421"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2305015",
+    "muniLabel": "Suchdol nad Lužnicí",
+    "location": "Point(14.877 48.8934)",
+    "population": "3522",
+    "area": "63.582121"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000056",
+    "muniLabel": "Sušice",
+    "location": "Point(13.520207848 49.231161465)",
+    "population": "11110",
+    "area": "45.63"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q755698",
+    "muniLabel": "Svitavy",
+    "location": "Point(16.468338539 49.755965917)",
+    "population": "16838",
+    "area": "31.332927"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q677551",
+    "muniLabel": "Svoboda nad Úpou",
+    "location": "Point(15.816580645 50.626003707)",
+    "population": "2062",
+    "area": "7.750963"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1853577",
+    "muniLabel": "Svratka",
+    "location": "Point(16.0322 49.7107)",
+    "population": "1403",
+    "area": "14.505384"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1001639",
+    "muniLabel": "Světlá nad Sázavou",
+    "location": "Point(15.403979061 49.66806244)",
+    "population": "6566",
+    "area": "42.070194"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000475",
+    "muniLabel": "Sázava",
+    "location": "Point(14.896794718 49.871708476)",
+    "population": "3720",
+    "area": "20.418641"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q191097",
+    "muniLabel": "Tachov",
+    "location": "Point(12.633709213 49.795398066)",
+    "population": "12802",
+    "area": "40.847854"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q149105",
+    "muniLabel": "Tanvald",
+    "location": "Point(15.306 50.7374)",
+    "population": "6252",
+    "area": "12.447284"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q373804",
+    "muniLabel": "Telč",
+    "location": "Point(15.452771068 49.184229941)",
+    "population": "5276",
+    "area": "24.873079"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q146342",
+    "muniLabel": "Teplice",
+    "location": "Point(13.816666666 50.633333333)",
+    "population": "49575",
+    "area": "23.783125"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q280873",
+    "muniLabel": "Teplice nad Metují",
+    "location": "Point(16.1704 50.5934)",
+    "population": "1626",
+    "area": "56.063996"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1001600",
+    "muniLabel": "Teplá",
+    "location": "Point(12.8631 49.982)",
+    "population": "2946",
+    "area": "113.224433"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q523489",
+    "muniLabel": "Terezín",
+    "location": "Point(14.150642743 50.511078866)",
+    "population": "2924",
+    "area": "13.536437"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q161513",
+    "muniLabel": "Tišnov",
+    "location": "Point(16.424404904 49.34874933)",
+    "population": "9257",
+    "area": "17.117579"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013898",
+    "muniLabel": "Toužim",
+    "location": "Point(12.985129225 50.060603889)",
+    "population": "3705",
+    "area": "98.550256"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1261993",
+    "muniLabel": "Tovačov",
+    "location": "Point(17.287981105 49.430843735)",
+    "population": "2467",
+    "area": "22.768215"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019315",
+    "muniLabel": "Trhové Sviny",
+    "location": "Point(14.639241403 48.84238919)",
+    "population": "5154",
+    "area": "52.774654"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1854528",
+    "muniLabel": "Trhový Štěpánov",
+    "location": "Point(15.0136 49.7115)",
+    "population": "1387",
+    "area": "28.905256"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q978446",
+    "muniLabel": "Trmice",
+    "location": "Point(13.994595933 50.642946369)",
+    "population": "3332",
+    "area": "6.66077"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q320950",
+    "muniLabel": "Trutnov",
+    "location": "Point(15.912798547 50.561045737)",
+    "population": "30372",
+    "area": "103.319996"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q851419",
+    "muniLabel": "Turnov",
+    "location": "Point(15.156899388 50.587341607)",
+    "population": "14334",
+    "area": "22.711996"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q193721",
+    "muniLabel": "Tábor",
+    "location": "Point(14.657835974 49.414485338)",
+    "population": "34456",
+    "area": "62.215743"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q815541",
+    "muniLabel": "Týn nad Vltavou",
+    "location": "Point(14.420589996 49.223475602)",
+    "population": "8000",
+    "area": "43.020675"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641799",
+    "muniLabel": "Týnec nad Labem",
+    "location": "Point(15.358422892 50.042071042)",
+    "population": "2063",
+    "area": "15.693367"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1852569",
+    "muniLabel": "Týnec nad Sázavou",
+    "location": "Point(14.5899 49.8335)",
+    "population": "5715",
+    "area": "25.746213"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2002875",
+    "muniLabel": "Týniště nad Orlicí",
+    "location": "Point(16.077768029 50.151400055)",
+    "population": "6058",
+    "area": "52.45923"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1852528",
+    "muniLabel": "Třebechovice pod Orebem",
+    "location": "Point(15.992304831 50.201006677)",
+    "population": "5748",
+    "area": "21.007408"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q373951",
+    "muniLabel": "Třebenice",
+    "location": "Point(13.9901 50.4764)",
+    "population": "1982",
+    "area": "21.859788"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q773312",
+    "muniLabel": "Třeboň",
+    "location": "Point(14.770659141 49.003709466)",
+    "population": "8253",
+    "area": "98.311101"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q270704",
+    "muniLabel": "Třebíč",
+    "location": "Point(15.881675935 49.2149674)",
+    "population": "35691",
+    "area": "57.591176"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1022960",
+    "muniLabel": "Třemošnice",
+    "location": "Point(15.5801 49.8692)",
+    "population": "3065",
+    "area": "19.004314"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1852454",
+    "muniLabel": "Třemošná",
+    "location": "Point(13.395051407 49.815938878)",
+    "population": "5031",
+    "area": "18.11669"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q999899",
+    "muniLabel": "Třešť",
+    "location": "Point(15.482137396 49.290971192)",
+    "population": "5766",
+    "area": "46.985164"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q986102",
+    "muniLabel": "Třinec",
+    "location": "Point(18.670814768 49.677609314)",
+    "population": "35131",
+    "area": "85.358332"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q502993",
+    "muniLabel": "Uherské Hradiště",
+    "location": "Point(17.459691353 49.069757549)",
+    "population": "25212",
+    "area": "21.256963"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q664895",
+    "muniLabel": "Uherský Brod",
+    "location": "Point(17.647153295 49.02513343)",
+    "population": "16493",
+    "area": "52.063309"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1027604",
+    "muniLabel": "Uherský Ostroh",
+    "location": "Point(17.3898 48.9856)",
+    "population": "4267",
+    "area": "26.533971"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1782229",
+    "muniLabel": "Uhlířské Janovice",
+    "location": "Point(15.0649 49.8803)",
+    "population": "3126",
+    "area": "25.46109"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641761",
+    "muniLabel": "Unhošť",
+    "location": "Point(14.130145953 50.085433861)",
+    "population": "4779",
+    "area": "17.417258"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q682361",
+    "muniLabel": "Uničov",
+    "location": "Point(17.121482256 49.770928637)",
+    "population": "11396",
+    "area": "48.274655"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1476819",
+    "muniLabel": "Valašské Klobouky",
+    "location": "Point(18.0076 49.1406)",
+    "population": "4951",
+    "area": "26.946893"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q375651",
+    "muniLabel": "Valašské Meziříčí",
+    "location": "Point(17.971153558 49.471799519)",
+    "population": "22217",
+    "area": "35.435062"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q782147",
+    "muniLabel": "Valtice",
+    "location": "Point(16.75498066 48.740717231)",
+    "population": "3557",
+    "area": "47.849121"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019344",
+    "muniLabel": "Vamberk",
+    "location": "Point(16.2907 50.1176)",
+    "population": "4532",
+    "area": "21.022202"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158275",
+    "muniLabel": "Varnsdorf",
+    "location": "Point(14.618353683 50.911612411)",
+    "population": "15297",
+    "area": "26.233602"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1751518",
+    "muniLabel": "Vejprty",
+    "location": "Point(13.032216898 50.492422906)",
+    "population": "2871",
+    "area": "9.769613"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2092152",
+    "muniLabel": "Velešín",
+    "location": "Point(14.4625 48.8296)",
+    "population": "3899",
+    "area": "13.235612"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1022962",
+    "muniLabel": "Velká Bystřice",
+    "location": "Point(17.36401034 49.594235374)",
+    "population": "3384",
+    "area": "9.219399"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158429",
+    "muniLabel": "Velká Bíteš",
+    "location": "Point(16.2259 49.2887)",
+    "population": "5193",
+    "area": "47.303134"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q662194",
+    "muniLabel": "Velké Bílovice",
+    "location": "Point(16.89226935 48.849310717)",
+    "population": "3907",
+    "area": "25.734312"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1812126",
+    "muniLabel": "Velké Hamry",
+    "location": "Point(15.3155 50.7138)",
+    "population": "2650",
+    "area": "9.316008"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q703158",
+    "muniLabel": "Velké Meziříčí",
+    "location": "Point(16.012268756 49.355258131)",
+    "population": "11484",
+    "area": "40.664078"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1422132",
+    "muniLabel": "Velké Opatovice",
+    "location": "Point(16.679506811 49.612395778)",
+    "population": "3685",
+    "area": "25.931779"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1028003",
+    "muniLabel": "Velké Pavlovice",
+    "location": "Point(16.816048531 48.904715556)",
+    "population": "3119",
+    "area": "23.245076"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019341",
+    "muniLabel": "Velký Šenov",
+    "location": "Point(14.3744 50.9909)",
+    "population": "1982",
+    "area": "19.822163"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q240986",
+    "muniLabel": "Veltrusy",
+    "location": "Point(14.328651632 50.270537094)",
+    "population": "2131",
+    "area": "8.006456"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1024881",
+    "muniLabel": "Velvary",
+    "location": "Point(14.2362 50.2816)",
+    "population": "3044",
+    "area": "18.099968"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1332348",
+    "muniLabel": "Verneřice",
+    "location": "Point(14.301247988 50.66121773)",
+    "population": "1158",
+    "area": "31.406354"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q612646",
+    "muniLabel": "Veselí nad Lužnicí",
+    "location": "Point(14.69735558 49.1843689)",
+    "population": "6367",
+    "area": "29.566544"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q105198",
+    "muniLabel": "Veselí nad Moravou",
+    "location": "Point(17.376482379 48.953642955)",
+    "population": "11006",
+    "area": "35.450627"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q149320",
+    "muniLabel": "Veverská Bítýška",
+    "location": "Point(16.436884691 49.275944221)",
+    "population": "3270",
+    "area": "13.602779"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1025162",
+    "muniLabel": "Vidnava",
+    "location": "Point(17.18633535 50.372348807)",
+    "population": "1282",
+    "area": "4.268119"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1013919",
+    "muniLabel": "Vimperk",
+    "location": "Point(13.7743 49.0525)",
+    "population": "7399",
+    "area": "80.040771"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008610",
+    "muniLabel": "Vizovice",
+    "location": "Point(17.8546 49.2229)",
+    "population": "4800",
+    "area": "28.566848"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1401340",
+    "muniLabel": "Vlachovo Březí",
+    "location": "Point(13.958433086 49.081440635)",
+    "population": "1713",
+    "area": "19.970256"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1000101",
+    "muniLabel": "Vlašim",
+    "location": "Point(14.8989 49.7064)",
+    "population": "11598",
+    "area": "41.424825"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008983",
+    "muniLabel": "Vodňany",
+    "location": "Point(14.175148006 49.147976092)",
+    "population": "6953",
+    "area": "36.336874"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q509207",
+    "muniLabel": "Volary",
+    "location": "Point(13.886581074 48.908902782)",
+    "population": "3780",
+    "area": "107.520728"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1017889",
+    "muniLabel": "Volyně",
+    "location": "Point(13.886256539 49.16587049)",
+    "population": "3023",
+    "area": "20.58027"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q781530",
+    "muniLabel": "Votice",
+    "location": "Point(14.638130325 49.640199066)",
+    "population": "4587",
+    "area": "36.421713"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1009071",
+    "muniLabel": "Vracov",
+    "location": "Point(17.210998023 48.975242894)",
+    "population": "4557",
+    "area": "44.404246"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1575979",
+    "muniLabel": "Vratimov",
+    "location": "Point(18.3102 49.7699)",
+    "population": "7297",
+    "area": "14.135831"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158435",
+    "muniLabel": "Vrbno pod Pradědem",
+    "location": "Point(17.383221772 50.120957199)",
+    "population": "5040",
+    "area": "68.912473"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1008595",
+    "muniLabel": "Vrchlabí",
+    "location": "Point(15.609473689 50.627013945)",
+    "population": "12461",
+    "area": "27.648808"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1431223",
+    "muniLabel": "Vroutek",
+    "location": "Point(13.379936056 50.180087945)",
+    "population": "1846",
+    "area": "52.678424"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q513417",
+    "muniLabel": "Vsetín",
+    "location": "Point(17.996209032 49.338702987)",
+    "population": "26092",
+    "area": "57.607343"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q999916",
+    "muniLabel": "Vysoké Mýto",
+    "location": "Point(16.161752006 49.953240035)",
+    "population": "12335",
+    "area": "42.026497"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q729166",
+    "muniLabel": "Vysoké Veselí",
+    "location": "Point(15.436397374 50.331007222)",
+    "population": "865",
+    "area": "9.339938"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q164527",
+    "muniLabel": "Vysoké nad Jizerou",
+    "location": "Point(15.401628104 50.685638628)",
+    "population": "1290",
+    "area": "20.665314"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q954569",
+    "muniLabel": "Vyškov",
+    "location": "Point(16.998993221 49.277487239)",
+    "population": "20883",
+    "area": "50.472289"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1019688",
+    "muniLabel": "Vyšší Brod",
+    "location": "Point(14.311814549 48.616062834)",
+    "population": "2621",
+    "area": "69.756504"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1641781",
+    "muniLabel": "Vítkov",
+    "location": "Point(17.7495 49.7744)",
+    "population": "5725",
+    "area": "55.046787"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q1406706",
+    "muniLabel": "Výsluní",
+    "location": "Point(13.2375 50.4666)",
+    "population": "373",
+    "area": "30.335192"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q2302958",
+    "muniLabel": "Větřní",
+    "location": "Point(14.2862 48.7743)",
+    "population": "3882",
+    "area": "27.711251"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q965987",
+    "muniLabel": "Všeruby",
+    "location": "Point(13.229489399 49.84177677)",
+    "population": "1493",
+    "area": "23.574313"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q168234",
+    "muniLabel": "Zbiroh",
+    "location": "Point(13.7727 49.8603)",
+    "population": "2500",
+    "area": "31.941957"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q168900",
+    "muniLabel": "Zbýšov",
+    "location": "Point(16.349525428 49.155276849)",
+    "population": "3784",
+    "area": "6.013652"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q169133",
+    "muniLabel": "Zdice",
+    "location": "Point(13.9775 49.9122)",
+    "population": "4179",
+    "area": "13.805593"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q207222",
+    "muniLabel": "Zlaté Hory",
+    "location": "Point(17.3961 50.2638)",
+    "population": "3796",
+    "area": "85.924989"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q207251",
+    "muniLabel": "Zliv",
+    "location": "Point(14.366147357 49.066163345)",
+    "population": "3569",
+    "area": "14.205467"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q171018",
+    "muniLabel": "Zlín",
+    "location": "Point(17.666944444 49.233055555)",
+    "population": "74997",
+    "area": "102.826067"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q214956",
+    "muniLabel": "Znojmo",
+    "location": "Point(16.048796054 48.855540667)",
+    "population": "33780",
+    "area": "65.896743"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q227189",
+    "muniLabel": "Zruč nad Sázavou",
+    "location": "Point(15.106108919 49.740164158)",
+    "population": "4750",
+    "area": "16.413278"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q227614",
+    "muniLabel": "Zubří",
+    "location": "Point(18.092510514 49.466018567)",
+    "population": "5540",
+    "area": "28.38545"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q246634",
+    "muniLabel": "Zábřeh",
+    "location": "Point(16.872280013 49.882620486)",
+    "population": "13589",
+    "area": "34.590845"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q246837",
+    "muniLabel": "Zákupy",
+    "location": "Point(14.645329503 50.684820155)",
+    "population": "2850",
+    "area": "40.778328"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q247006",
+    "muniLabel": "Zásmuky",
+    "location": "Point(15.0306 49.9548)",
+    "population": "1965",
+    "area": "24.123346"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q330055",
+    "muniLabel": "Újezd u Brna",
+    "location": "Point(16.757378226 49.104371977)",
+    "population": "3368",
+    "area": "13.072462"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q330259",
+    "muniLabel": "Úpice",
+    "location": "Point(16.016159265 50.512410991)",
+    "population": "5661",
+    "area": "15.300141"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q330302",
+    "muniLabel": "Úsov",
+    "location": "Point(17.0106 49.7983)",
+    "population": "1183",
+    "area": "9.31432"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q156974",
+    "muniLabel": "Ústí nad Labem",
+    "location": "Point(14.041666666 50.659166666)",
+    "population": "92952",
+    "area": "93.969856"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q330409",
+    "muniLabel": "Ústí nad Orlicí",
+    "location": "Point(16.393670305 49.973904297)",
+    "population": "14196",
+    "area": "36.367354"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q330493",
+    "muniLabel": "Úterý",
+    "location": "Point(13.004242195 49.940180309)",
+    "population": "470",
+    "area": "25.907216"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q330653",
+    "muniLabel": "Úvaly",
+    "location": "Point(14.7309 50.074)",
+    "population": "6744",
+    "area": "10.966984"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q330717",
+    "muniLabel": "Úštěk",
+    "location": "Point(14.343424151 50.584820187)",
+    "population": "2901",
+    "area": "74.947316"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q338616",
+    "muniLabel": "Čelákovice",
+    "location": "Point(14.750119929 50.160451211)",
+    "population": "12260",
+    "area": "15.875679"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q339102",
+    "muniLabel": "Černovice",
+    "location": "Point(14.960918952 49.372719357)",
+    "population": "1733",
+    "area": "36.52462"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q339112",
+    "muniLabel": "Černošice",
+    "location": "Point(14.3199 49.9602)",
+    "population": "7170",
+    "area": "9.058736"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q280020",
+    "muniLabel": "Černošín",
+    "location": "Point(12.883870694 49.816247641)",
+    "population": "1150",
+    "area": "42.203439"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q339862",
+    "muniLabel": "Červená Řečice",
+    "location": "Point(15.1784 49.5113)",
+    "population": "1003",
+    "area": "26.461325"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158420",
+    "muniLabel": "Červený Kostelec",
+    "location": "Point(16.092983802 50.476298276)",
+    "population": "8352",
+    "area": "24.070413"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q340680",
+    "muniLabel": "Česká Kamenice",
+    "location": "Point(14.417784557 50.797877961)",
+    "population": "5247",
+    "area": "38.765545"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q740863",
+    "muniLabel": "Česká Lípa",
+    "location": "Point(14.537747102 50.685584291)",
+    "population": "37444",
+    "area": "66.096326"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q341053",
+    "muniLabel": "Česká Skalice",
+    "location": "Point(16.0428 50.3947)",
+    "population": "5078",
+    "area": "17.363298"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q341056",
+    "muniLabel": "Česká Třebová",
+    "location": "Point(16.447334999 49.901912708)",
+    "population": "15508",
+    "area": "40.994378"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q16506",
+    "muniLabel": "České Budějovice",
+    "location": "Point(14.474722222 48.974722222)",
+    "population": "94014",
+    "area": "55.604617"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q341197",
+    "muniLabel": "České Velenice",
+    "location": "Point(14.963673627 48.768573633)",
+    "population": "3521",
+    "area": "12.086458"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q341223",
+    "muniLabel": "Český Brod",
+    "location": "Point(14.8609 50.0743)",
+    "population": "7046",
+    "area": "19.703634"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q341243",
+    "muniLabel": "Český Dub",
+    "location": "Point(14.996273935 50.660600135)",
+    "population": "2752",
+    "area": "22.573024"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q188082",
+    "muniLabel": "Český Krumlov",
+    "location": "Point(14.31520771 48.810990441)",
+    "population": "13085",
+    "area": "22.168455"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q278877",
+    "muniLabel": "Český Těšín",
+    "location": "Point(18.626170385 49.746110801)",
+    "population": "24438",
+    "area": "33.8"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q341777",
+    "muniLabel": "Čáslav",
+    "location": "Point(15.389777063 49.911045008)",
+    "population": "10326",
+    "area": "26.459298"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q386858",
+    "muniLabel": "Řevnice",
+    "location": "Point(14.236 49.914)",
+    "population": "3498",
+    "area": "10.141471"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q386988",
+    "muniLabel": "Říčany",
+    "location": "Point(14.654334421 49.991746433)",
+    "population": "15619",
+    "area": "25.811368"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q331306",
+    "muniLabel": "Šenov",
+    "location": "Point(18.3761 49.7931)",
+    "population": "6400",
+    "area": "16.634785"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q371321",
+    "muniLabel": "Šlapanice",
+    "location": "Point(16.727325855 49.168653859)",
+    "population": "7563",
+    "area": "14.648877"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q392166",
+    "muniLabel": "Šluknov",
+    "location": "Point(14.45270927 51.003759354)",
+    "population": "5615",
+    "area": "47.468518"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q392285",
+    "muniLabel": "Špindlerův Mlýn",
+    "location": "Point(15.609547041 50.726196345)",
+    "population": "1119",
+    "area": "76.936664"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q392429",
+    "muniLabel": "Šternberk",
+    "location": "Point(17.298931346 49.730452833)",
+    "population": "13495",
+    "area": "48.788687"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q392466",
+    "muniLabel": "Štramberk",
+    "location": "Point(18.1174 49.5918)",
+    "population": "3438",
+    "area": "9.333036"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q392544",
+    "muniLabel": "Štíty",
+    "location": "Point(16.765815872 49.961244462)",
+    "population": "2021",
+    "area": "29.928156"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q392624",
+    "muniLabel": "Štětí",
+    "location": "Point(14.374304629 50.453059775)",
+    "population": "8685",
+    "area": "53.896245"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q392692",
+    "muniLabel": "Šumperk",
+    "location": "Point(16.970665435 49.965299915)",
+    "population": "25957",
+    "area": "27.88003"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q392779",
+    "muniLabel": "Švihov",
+    "location": "Point(13.2842 49.4815)",
+    "population": "1678",
+    "area": "34.53426"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q393326",
+    "muniLabel": "Žacléř",
+    "location": "Point(15.910733961 50.663333544)",
+    "population": "3134",
+    "area": "21.82167"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q158272",
+    "muniLabel": "Žamberk",
+    "location": "Point(16.467445454 50.086040466)",
+    "population": "6104",
+    "area": "16.909087"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q393378",
+    "muniLabel": "Žandov",
+    "location": "Point(14.3963 50.714)",
+    "population": "1895",
+    "area": "27.236903"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q393426",
+    "muniLabel": "Žatec",
+    "location": "Point(13.545859487 50.327264913)",
+    "population": "19133",
+    "area": "42.676571"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q393439",
+    "muniLabel": "Ždánice",
+    "location": "Point(17.027519327 49.067305485)",
+    "population": "2481",
+    "area": "20.81522"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q393457",
+    "muniLabel": "Ždírec nad Doubravou",
+    "location": "Point(15.813647623 49.696001227)",
+    "population": "3104",
+    "area": "26.729735"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q393474",
+    "muniLabel": "Žebrák",
+    "location": "Point(13.897408903 49.875827378)",
+    "population": "2181",
+    "area": "8.514561"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q393519",
+    "muniLabel": "Železnice",
+    "location": "Point(15.3847 50.4728)",
+    "population": "1303",
+    "area": "13.092488"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q327749",
+    "muniLabel": "Železná Ruda",
+    "location": "Point(13.235220012 49.137540252)",
+    "population": "1631",
+    "area": "79.772719"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q393592",
+    "muniLabel": "Železný Brod",
+    "location": "Point(15.254178818 50.642794278)",
+    "population": "6069",
+    "area": "22.508518"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q393955",
+    "muniLabel": "Židlochovice",
+    "location": "Point(16.618813305 49.039551985)",
+    "population": "3826",
+    "area": "5.931761"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q394108",
+    "muniLabel": "Žirovnice",
+    "location": "Point(15.188260413 49.253242236)",
+    "population": "2921",
+    "area": "44.414989"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q378120",
+    "muniLabel": "Žižkov",
+    "location": "Point(14.4628 50.0872)",
+    "population": "56056",
+    "area": "5.44"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q394241",
+    "muniLabel": "Žlutice",
+    "location": "Point(13.163 50.092)",
+    "population": "2305",
+    "area": "53.005532"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q394278",
+    "muniLabel": "Žulová",
+    "location": "Point(17.098785768 50.309345952)",
+    "population": "1247",
+    "area": "14.755218"
+  },
+  {
+    "muni": "http://www.wikidata.org/entity/Q394453",
+    "muniLabel": "Žďár nad Sázavou",
+    "location": "Point(15.939278339 49.562675487)",
+    "population": "20847",
+    "area": "37.063681"
+  }
+]
