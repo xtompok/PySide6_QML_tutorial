@@ -30,8 +30,6 @@ Rectangle {
         onCurrentItemChanged: console.log(cityList.currentIndex + ' selected')
 
         highlight: Rectangle {
-            width: parent.width
-            height: childrenRect.height
             color: "lightsteelblue"
         }
 
