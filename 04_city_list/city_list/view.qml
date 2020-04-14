@@ -15,9 +15,8 @@ Rectangle {
             id: cityListDelegate
             Item {
                 width: parent.width
-                height: textid.height
+                height: childrenRect.height
                 Text {
-                    id: textid
                     text: model.display
                 }
                 MouseArea {
@@ -32,7 +31,7 @@ Rectangle {
 
         highlight: Rectangle {
             width: parent.width
-            height: textid.height
+            height: childrenRect.height
             color: "lightsteelblue"
         }
 

@@ -26,6 +26,8 @@ class CityListModel(QAbstractListModel):
         return len(self.city_list)
 
     def data(self, index:QtCore.QModelIndex, role:int=...) -> typing.Any:
+        if not index.isValid():
+            return None
         if role == QtCore.Qt.DisplayRole:
             return self.city_list[index.row()]["muniLabel"]
 
