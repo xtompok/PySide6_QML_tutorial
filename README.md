@@ -52,6 +52,8 @@ budoucnu `requirements.txt`.
 	- obousměrná synchronizace mezi modelem a GUI
  4. [Seznam měst](04_city_list)
  	- model, view, delegate
+	- abstraktní třídy
+	- fokus - úvod
  5. [Mapa měst](05_city_map)
  	- Map View
 	- property v QML
