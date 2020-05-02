@@ -8,6 +8,7 @@ Row {
     width: 800
     height: 500
 
+    // Create property holding model of currently selected city
     property var currentModelItem;
 
     ListView {
@@ -20,9 +21,8 @@ Row {
             id: cityListDelegate
             Item {
                 width: parent.width
-                height: textid.height
+                height: childrenRect.height
                 Text {
-                    id: textid
                     text: model.display
                 }
                 MouseArea {
@@ -38,11 +38,10 @@ Row {
             delegate: cityListDelegate
         }
 
+        // When current item of the list is changed, update the currentModelItem property
         onCurrentItemChanged: currentModelItem = cityListDelegateModel.items.get(cityList.currentIndex).model
 
         highlight: Rectangle {
-            width: parent.width
-            height: textid.height
             color: "lightsteelblue"
         }
     }
@@ -55,7 +54,7 @@ Row {
             text: "Rozloha:"
         }
         Text {
-            textFormat: Text.RichText
+            textFormat: Text.RichText // We need RichText to render upper index correctly
             text: currentModelItem.area+" km<sup>2</sup>"
         }
         Text {
@@ -68,22 +67,24 @@ Row {
 
     Plugin {
         id: mapPlugin
-        name: "osm" // "mapboxgl", "esri", ...
+        name: "osm" // We want OpenStreetMap map provider
         PluginParameter {
              name:"osm.mapping.custom.host"
-             value:"https://tiles.wmflabs.org/osm-no-labels/"
+             value:"https://tiles.wmflabs.org/osm-no-labels/" // We want custom tile server for tiles without labels
         }
     }
 
     Map {
         width: 500
         height: parent.height
+
         plugin: mapPlugin
-        center: currentModelItem.location // Oslo
+        activeMapType: supportedMapTypes[supportedMapTypes.length - 1] // Use our custom tile server
+
+        center: currentModelItem.location // Center to the selected city
         zoomLevel: 10
-        activeMapType: supportedMapTypes[supportedMapTypes.length - 1]
+
         MapItemView {
-            id: clMapItemView
             model: cityListModel
             delegate: MapQuickItem {
                 coordinate: model.location
