@@ -8,6 +8,7 @@ Column {
         id: remainingInput
         text: countdownModel.remaining
         width: parent.width
+        horizontalAlignment: TextInput.AlignHCenter
 
         Binding {
                 target: countdownModel
