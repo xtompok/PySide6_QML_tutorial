@@ -70,7 +70,9 @@ class VehiclesModel(QAbstractListModel):
     @Slot()
     def download_finished(self,reply:QNetworkReply):
         print("Download finished")
-        reply_str = reply.readAll().data().decode('utf-8-sig')
+        reply_str = reply.readAll().data()
+        print(type(reply_str))
+        reply_str = reply_str.decode('utf-8-sig')
         data = json.loads(reply_str)
         print(data)
         self.update_data(data)
