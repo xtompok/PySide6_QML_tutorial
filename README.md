@@ -4,7 +4,7 @@ Tutorial for using Python with Qt, specially with QtQuick and PySide2 libraries.
 ## About (EN)
 The text is in czech due to primarily targeting Czech students.
 Source code and comments is in english. Feel free to ask me if you can't
-understand any part. Translations, comments and contributions are welcomed.
+understand any part. Translations, comments and contributions are welcome.
 
 ## O tomto návodu
 Tutoriál pro používání Qt Quick v Pythonu pomocí PySide2, primárně zaměřen na
