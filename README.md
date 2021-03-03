@@ -43,6 +43,7 @@ Nejlépe ve složce příkladu vytvořit virtualenv s PySide2. Příklady budou 
 budoucnu `requirements.txt`.
 
 ## Díly (budou postupně přibývat)
+ 0. [Instalace a nastavení](00_preparations)
  1. [První program](01_first_program)
  2. [Klikni na tlačítko](02_clicker)
 	- binding proměnných
