@@ -1,6 +1,6 @@
-from PySide2.QtCore import QObject, Signal, Slot, Property, QUrl
-from PySide2.QtGui import QGuiApplication
-from PySide2.QtQuick import QQuickView
+from PySide6.QtCore import QObject, Signal, Slot, Property, QUrl
+from PySide6.QtGui import QGuiApplication
+from PySide6.QtQuick import QQuickView
 import sys
 
 VIEW_URL = "view.qml"
@@ -15,7 +15,7 @@ class DMSModel(QObject):
 
     # Property 'deg'
     def set_deg(self, val):
-        print("Current: {}, new: {}",val,self._deg)
+        print(f"Current: {self._deg}, new: {val}")
         if val != self._deg:
             self._deg = val
             self.deg_changed.emit(self.deg)
@@ -47,7 +47,7 @@ class DMSModel(QObject):
     sec = Property(int, lambda self: self._sec, set_sec, notify=sec_changed)
 
     def set_deg_float(self, val):
-        print("Current: {}, new: {}",val,self._deg)
+        print(f"Current: {self._deg_float}, new: {val}")
         if val != self._deg_float:
             self._deg_float = val
             self.deg_float_changed.emit(self._deg_float)
