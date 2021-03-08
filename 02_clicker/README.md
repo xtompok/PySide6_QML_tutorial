@@ -6,14 +6,14 @@ pořídit objekt, ke kterému bude rozumět jak Python, tak QML. Pokud takovýto
 objekt už máme, můžeme ho do QML zpřístupnit pomocí *context property*.
 `QQuickView` si drží kontext - stav - ke kterému lze přistupovat jak z Pythonu,
 tak z QML. My můžeme pomocí
-[`setContextProperty`](https://doc.qt.io/qtforpython/PySide2/QtQml/QQmlContext.html#PySide2.QtQml.PySide2.QtQml.QQmlContext.setContextProperty)
+[`setContextProperty`](https://doc.qt.io/qtforpython/PySide6/QtQml/QQmlContext.html#PySide6.QtQml.PySide6.QtQml.QQmlContext.setContextProperty)
 do tohoto kontextu přidat náš objekt a určit mu, pod jakým jménem se bude
 objevovat v QML. 
 
 Kontext získáme z `QQuickView` pomocí metody `view.rootContext()`. Pokud pak
 zavoláme `ctxt.setContextProperty('myObj', my_object)`, pak objekt `my_object`
 z Pythonu bude dostupný v QML jako `myObj`. Kde takový objekt vzít?
-Nejjednodušší je vytvořit si vlastní třídu, která bude dědit od [`QObject`](https://doc.qt.io/qtforpython/PySide2/QtCore/QObject.html) 
+Nejjednodušší je vytvořit si vlastní třídu, která bude dědit od [`QObject`](https://doc.qt.io/qtforpython/PySide6/QtCore/QObject.html) 
 a v ní deklarovat potřebné signály, sloty a property (viz níže). Díky tomu, že
 naše třída dědí od QObject, je možné ji použít jako context property a Qt zařídí
 potřebné vazby.
@@ -86,7 +86,7 @@ def set_counter(self,val):
 ```
 
 Když máme všechny tři metody připravené, můžeme vytvořit
-[`Property`](https://doc.qt.io/qtforpython/PySide2/QtCore/Property.html).
+[`Property`](https://doc.qt.io/qtforpython/PySide6/QtCore/Property.html).
 `Property` bere 4 argumenty - typ, getter, setter a pojmenovaný argument
 `notify` s notifikační metodou. Naší property bychom vytvořili takto:
 `counter = Property(int,get_counter,set_counter,notify=counter_changed)`. Nyní

@@ -1,6 +1,6 @@
-from PySide2.QtCore import QObject, Slot, Property, QUrl, Signal
-from PySide2.QtGui import QGuiApplication
-from PySide2.QtQuick import QQuickView
+from PySide6.QtCore import QObject, Slot, Property, QUrl, Signal
+from PySide6.QtGui import QGuiApplication
+from PySide6.QtQuick import QQuickView
 import sys
 
 VIEW_URL = "view.qml"
@@ -22,14 +22,14 @@ class ClickModel(QObject):
 
     def set_count(self,val):
         """Setter for the count property"""
-        print("Current: {}, new: {}",self._count,val)
+        print("Current: {}, new: {}".format(self._count,val))
         # We set new value and notify of change only if the value
         # is really changed.
         if val != self._count:
             # Change internal value
             self._count = val
             # Notify the GUI that the value had changed
-            self.notify_changed.emit()
+            self.counter_changed.emit()
 
     # Declare a notification method
     counter_changed = Signal()
