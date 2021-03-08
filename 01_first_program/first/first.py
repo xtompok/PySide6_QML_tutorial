@@ -1,6 +1,6 @@
-from PySide2.QtCore import QUrl
-from PySide2.QtGui import QGuiApplication
-from PySide2.QtQuick import  QQuickView
+from PySide6.QtCore import QUrl
+from PySide6.QtGui import QGuiApplication
+from PySide6.QtQuick import  QQuickView
 import sys
 
 VIEW_PATH = "view.qml"

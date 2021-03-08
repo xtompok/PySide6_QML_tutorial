@@ -4,11 +4,13 @@
 Grafické aplikace v Qt Quick sestávají ze dvou částí - grafického rozhraní v QML
 a výkonného (od slova vykonávat, nikoli výkon) kódu, který dodává grafickému
 rozhraní data k zobrazení. Tento kód je v původním Qt v jazyce C++, ale my
-budeme používat novější vazby do Pythonu pomocí PySide2, tudíž budeme psát v
-Pythonu. Poslední dobou se možnosti grafického rozhraní rozšiřují a je možné
-psát i aplikace pouze v QML (uvnitř QML lze používat JavaScript). Data mezi
-Pythonem a QML se předávají pomocí *context property*, o nich bude více v
-dalších dílech.
+budeme používat novější vazby do Pythonu pomocí PySide6, tudíž budeme psát v
+Pythonu. Pro Qt verze 5 se knihovna jmenovala PySide2, pro aktuální Qt 6 se
+přejmenovala na PySide6. Rozdily mezi PySide2 a PySide6 nejsou příliš významné,
+pokud narazíte na návod pro PySide2, pravděpodobně bude fungovat i pro PySide6.
+Poslední dobou se možnosti grafického rozhraní rozšiřují a je možné psát i
+aplikace pouze v QML (uvnitř QML lze používat JavaScript). Data mezi Pythonem a
+QML se předávají pomocí *context property*, o nich bude více v dalších dílech.
 
 ## Smyčka událostí (event loop)
 Narozdíl od běžných programů v Pythonu, které pracují "shora dolů" jsou aplikace
@@ -21,11 +23,11 @@ rozhraní, jiné propadnou do Pythonu a jsou odbaveny tam. Po odbavení událost
 program čeká ve smyčce na další událost.
 
 ## Popis programu
-Na začátku vytvoříme [`QGuiApplication`](https://doc.qt.io/qtforpython/PySide2/QtGui/QGuiApplication.html), která zajišťuje, že se naše aplikace
+Na začátku vytvoříme [`QGuiApplication`](https://doc.qt.io/qtforpython/PySide6/QtGui/QGuiApplication.html), která zajišťuje, že se naše aplikace
 bude chovat jako aplikace s grafickým rozhraním (bude mít okno apod.). 
 
-Následně připravujeme grafické rozhraní - vytvoříme [`QQuickView`](https://doc.qt.io/qtforpython/PySide2/QtQuick/QQuickView.html) a řekneme mu,
-ze kterého souboru má vzít popis grafického rozhraní. [`QUrl`](https://doc.qt.io/qtforpython/PySide2/QtCore/QUrl.html) slouží pro převod
+Následně připravujeme grafické rozhraní - vytvoříme [`QQuickView`](https://doc.qt.io/qtforpython/PySide6/QtQuick/QQuickView.html) a řekneme mu,
+ze kterého souboru má vzít popis grafického rozhraní. [`QUrl`](https://doc.qt.io/qtforpython/PySide6/QtCore/QUrl.html) slouží pro převod
 cesty na `QUrl` objekt, definiční soubor rozhraní může být umístěn i někde
 vzdáleně a aplikace si ho může odtud stáhnout, ale nebývá to příliš časté.
 Nakonec nesmíme zapomenout view zobrazit, jinak se nám otevře prázdné okno. 
@@ -55,7 +57,7 @@ V našem příkladu vyrobíme
 px a v něm umístíme prvek [`Text`](https://doc.qt.io/qt-5/qml-qtquick-text.html) s textem *Hello world!*.
 
 ## Zdroje
- - [Your first application using PySide2 and QtQuick/QML](https://doc.qt.io/qtforpython/tutorials/basictutorial/qml.html)
+ - [Your First QtQuick/QML Application](https://doc.qt.io/qtforpython/tutorials/basictutorial/qml.html)
  - [Jazyk QML a PySide2](https://www.root.cz/clanky/jazyk-qml-qt-modeling-language-a-pyside-2/)
  - [Jazyk QML a PySide](https://www.root.cz/clanky/jazyk-qml-qt-modeling-language-a-pyside/) - pozor, vztahuje se ke starší verzi PySide i QtQuick. Na QtQuick se skoro nic nezměnilo, PySide a PySide2 se ale liší výrazně
  - [Making a QML Application in Python (video)](https://www.youtube.com/watch?v=JxfiUx60Mbg)
