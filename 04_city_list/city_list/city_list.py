@@ -1,7 +1,7 @@
-from PySide2.QtCore import QObject, Signal, Slot, Property, QUrl, QAbstractListModel
-from PySide2.QtGui import QGuiApplication
-from PySide2.QtQuick import QQuickView
-from PySide2 import QtCore
+from PySide6.QtCore import QObject, Signal, Slot, Property, QUrl, QAbstractListModel
+from PySide6.QtGui import QGuiApplication
+from PySide6.QtQuick import QQuickView
+from PySide6 import QtCore
 import typing
 import sys
 import json
