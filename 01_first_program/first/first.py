@@ -18,5 +18,5 @@ view.setResizeMode(QQuickView.ResizeMode.SizeRootObjectToView)
 view.show()
 
 # Run the event loop
-app.exec_()
+app.exec()
 
