@@ -1,5 +1,5 @@
 # PySide2 QML tutorial
-Tutorial for using Python with Qt, specially with QtQuick and PySide2 libraries. 
+Tutorial for using Python with Qt, specially with QtQuick 2 and PySide2/PySide6 libraries. 
 
 ## About (EN)
 The text is in czech due to primarily targeting Czech students.
@@ -7,7 +7,7 @@ Source code and comments is in english. Feel free to ask me if you can't
 understand any part. Translations, comments and contributions are welcome.
 
 ## O tomto návodu
-Tutoriál pro používání Qt Quick v Pythonu pomocí PySide2, primárně zaměřen na
+Tutoriál pro používání Qt Quick v Pythonu pomocí PySide2/PySide6, primárně zaměřen na
 studenty a zájemce o geografii. Pomocné texty jsou v češtině, zdrojové kódy a
 komentáře v nich jsou anglicky. Pokud by něco nebylo jasné, dejte mi vědět.
 Pokud byste chtěli pomocné texty přeložit do angličtiny nebo měli jiné náměty či
@@ -28,15 +28,14 @@ Pokud nějaký pojem nemá český ustálený ekvivalent, budu používat původ
 anglické názvy, text tedy může někdy vypadat poněkud krkolomně.
 
 ## Doporučený SW
-Pro Python doporučuji PyCharm nebo jiný editor s doplňováním syntaxe, pro
-editaci QML pak Qt Creator (součástí balíku Qt). QML lze psát i v PyCharmu
-(nastavit syntaxi na JavaScript), ale pro pokročilejší úpravy nabízí Qt Creator
-i vizuální editor, kde se změny ihned projeví. Pro základní rozhraní není Qt
-Creator nutný.
+Pro Python doporučuji Visual Studio Code nebo jiný editor s doplňováním syntaxe, pro
+editaci QML pak Qt Creator (součástí balíku Qt). QML lze psát i ve Visual Studio
+Code, ale narozdíl od QtCreatoru nenabízí vizuální editor, kde se změny ihned
+projeví. Pro základní rozhraní není Qt Creator nutný.
 
-Příklady jsou testovány na Python 3.7 a Python 3.8.2 (pozor, na Windows Python
-3.8.0 nefunguje s PySide2, aktualizujte Python). Qt je používáno ve verzi 5.14,
-ale pravděpodobně budou, alespoň úvodní příklady fungovat i se staršími verzemi.
+Příklady jsou testovány na Python 3.9. Qt je používáno ve verzi 6.2.3, tam kde
+není daná třída dostupná, používá se 5.15, ale pravděpodobně budou, alespoň
+úvodní příklady fungovat i se staršími verzemi.
 
 ## Spouštění příkladů
 Nejlépe ve složce příkladu vytvořit virtualenv s PySide2. Příklady budou mít v
