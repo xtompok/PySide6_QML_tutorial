@@ -86,7 +86,7 @@ Samotný seznam měst pochází z projektu [Wikidata](https://www.wikidata.org/w
 
 
 ## Popis grafického rozhraní
-Program má dvé grafické rozhraní - jednoduché v souboru [`simple_view.qml`](city_list/simple_view.qml) a pokročilé ve [`view.qml`](city_list/simple_view.qml), které ukazuje typickou implementaci takového seznamu.
+Program má dvé grafické rozhraní - jednoduché v souboru [`simple_view.qml`](city_list/simple_view.qml) a pokročilé ve [`view.qml`](city_list/view.qml), které ukazuje typickou implementaci takového seznamu.
 
 ### Jednodušší rozhraní
 Okno jednoduššího rozhraní je tvořeno komponentou [`Rectangle`](https://doc.qt.io/qt-5/qml-qtquick-rectangle.html) o velikosti 200 x 500 pixelů. Uvnitř tohoto obdélníka je umístěn [`ListView`](https://doc.qt.io/qt-5/qml-qtquick-listview.html), který vyplňuje celý tento obdélník. Tento `ListView` má jako model `CityListModel`, který jsme vytvořili v Pythonu a delegátem je mu komponenta `Text`, která má nastavený text podle `DisplayRole` (v QML `display`) jednotlivých prvků modelu.
