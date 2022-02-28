@@ -70,7 +70,7 @@ Row {
         name: "osm" // We want OpenStreetMap map provider
         PluginParameter {
              name:"osm.mapping.custom.host"
-             value:"https://tiles.wmflabs.org/osm-no-labels/" // We want custom tile server for tiles without labels
+             value:"https://maps.wikimedia.org/osm/" // We want custom tile server for tiles without labels
         }
     }
 
