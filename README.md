@@ -57,6 +57,15 @@ budoucnu `requirements.txt`.
  5. [Mapa měst](05_city_map)
  	- Map View
 	- property v QML
+ 6. [TODO list](06_todo_list)
+ 	- přidávání / ubírání prvků modelu za běhu
+ 7. [Odpočet](07_countdown)
+ 	- paralelismus
+	- časovač
+	- popup
+ 8. [Mapa vozidel MHD](08_vehicle_positions)
+ 	- stahování dat z internetu
+	- *doprovodný text zatím chybí*
 
 
 ## Zdroje
