@@ -85,7 +85,18 @@ Program má dvě grafická rozhraní - jednoduché v souboru
 variantu práce se seznamem úkolů. 
 
 ### Jednodušší rozhraní
+Toto rozhraní umožňuje přidávat úkoly zapsáním do textového pole a kliknutím na
+"Přidej úkol" a odebrat úkol jeho zvolením v seznamu úkolů a následným kliknutím
+na "Odeber zvolený úkol".
 
+### Pokročilé rozhraní
+Toto rozhraní umožňuje přidávat úkoly zapsáním do textového pole a následným
+stisknutím Enteru nebo kliknutím na "Přidej úkol". Po přidání úkolu se textové
+pole smaže. Odebrání úkolů je možné po jednom kliknutím na úkol nebo na zaškrtávací
+políčko vedle něj, dále lze odebrat všechny úkoly naráz pomocí kliknutí na
+tlačítko "Odeber všechny úkoly". Seznam úkolů se automaticky zvětšuje tak, aby
+vyplnil veškeré dostupné volné místo v okně, textové pole na zadávání nových
+úkolů spolu s tlačítky je zarovnáno na dolní stranu okna.
 
 ## Zdroje
   - [QAbstractItemModel](https://doc.qt.io/qtforpython/PySide6/QtCore/QAbstractItemModel.html)
