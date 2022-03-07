@@ -36,10 +36,12 @@ Column {
 	}
 	Button {
 		text: "Přidej úkol"
+		// Send signal with one argument - text written in newTaskInput
 		onClicked: taskListModel.addTask(newTaskInput.text)
 	}
 	Button {
 		text: "Odeber zvolený úkol"
+		// Send signal with one argument - index of the currently selected item
 		onClicked: taskListModel.deleteTask(taskListView.currentIndex)
 	}
 }
