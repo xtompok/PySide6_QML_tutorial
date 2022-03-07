@@ -89,6 +89,14 @@ Toto rozhraní umožňuje přidávat úkoly zapsáním do textového pole a klik
 "Přidej úkol" a odebrat úkol jeho zvolením v seznamu úkolů a následným kliknutím
 na "Odeber zvolený úkol".
 
+Implementace rozhraní je velmi podobná [seznamu měst](/04_city_list). Za
+povšimnutí stojí řešení přidávání úkolů, kdy text nově přidávaného úkolu
+nezískává Python z [`TextInputu`]() sám, ale řetězec je předán přímo v signálu.
+Umožňuje to tak větší flexibilitu v grafickém rozhraní, kdy je možné zadávat
+text různými způsoby a stačí pak jen vyslat správný signál k přidání úkolu.
+Obdobně rozhraní pro mazání úkolu je pomocí signálu, který obsahuje index úkolu,
+který má smazat.
+
 ### Pokročilé rozhraní
 Toto rozhraní umožňuje přidávat úkoly zapsáním do textového pole a následným
 stisknutím Enteru nebo kliknutím na "Přidej úkol". Po přidání úkolu se textové
@@ -97,6 +105,43 @@ políčko vedle něj, dále lze odebrat všechny úkoly naráz pomocí kliknutí
 tlačítko "Odeber všechny úkoly". Seznam úkolů se automaticky zvětšuje tak, aby
 vyplnil veškeré dostupné volné místo v okně, textové pole na zadávání nových
 úkolů spolu s tlačítky je zarovnáno na dolní stranu okna.
+
+Aby bylo možné snadno adaptovat uživatelské rozhraní při změně velikosti okna,
+budeme používat [`ColumnLayout`]() a [`RowLayout`]() z modulu
+[`QtQuick.Layouts`](https://doc.qt.io/qt-5/qtquicklayouts-index.html). Oproti
+jednoduchým komponentám [`Row`]() a [`Column`]() umí tyto komponenty roztahovat
+vložené prvky tak, aby vyplnily okno, zarovnávat je a dělat s nimi i další
+pokročilé pozicování. Tyto možnosti se nastavují ve vnořených komponentách
+pomocí atributu [`Layout.<atribut>`]() a vždy se vztahují k nejbližší nadřazené
+komponentě typu `Layout`. Speciálně pozor u `RowLayout`u, kde atributy
+`Layout.fillWidth` a `Layout.alignment` rovnou v `RowLayout`u se vztahují k
+umístění komponenty `RowLayout` v komponentě `ColumnLayout`, nikoli k prvkům
+komponenty `RowLayout`. Lidsky řečeno říkají, že se řádková komponenta má
+zarovnat dolů a roztáhnout přes celou šířku komponenty `ColumnLayout`. Atribut
+[`fillWidth`]() / [`fillHeight`]() říká, že má daná komponenta vyplnit celý
+zbývající prostor, pomocí atributu `alignment` lze určit, ke které straně /
+stranám se má zarovnávat. 
+
+K zobrazení jednotlivých úkolů slouží komponenta [`CheckBox`](), která dělá
+zatrhávací políčko s popiskem. Aby bylo možné políčko zaškrtnout, je potřeba
+povolit atribut [`checkable`](), ke stavu zaškrtnutí je pak možné přistupovat
+pomocí atributu [`checkState`](), v tomto programu toho ale nevyužíváme. Místo toho
+hlídáme signál [`clicked`]() a při jeho vyslání necháme daný úkol smazat.
+
+Aby byl [`TextInput`]() sloužící k zadávání textu nového úkolu výraznější, je
+obalen komponentou [`Rectangle`](), která mu zařizuje orámování. Tato komponenta
+získá svou šířku z `Layout`u, ale výšku nemá danou, takže je potřeba nějakou
+zvolit. Protože hned vedle jsou umístěna tlačítka, byla zvolena výška
+orámovávacího obdélníka jako výška jednoho z tlačítek, aby to vizuálně
+navazovalo. U samotné vložené komponenty TextInput je potřeba nastavit výšku
+podle obklopujícího obdélníka a zmenšit ji o rozměry rámečku. Také se hodí
+samotný text vertikálně vystředit, aby navazoval na text na tlačítkách vedle.
+
+[`TextInput`]() má nastaven atribut [`focus`](), aby bylo možné rovnou začít
+psát nové úkoly. Dále je využit signál [`accepted`](), který je vyvolán při
+potvrzení enterem. Při jeho zpracování je využit blok, který umožňuje zadat více
+příkazů jako reakci na signál. V tomto případě je přidán nový úkol se zadaným
+textem a následně je textové pole smazáno, aby bylo možné psát další úkol.
 
 ## Zdroje
   - [QAbstractItemModel](https://doc.qt.io/qtforpython/PySide6/QtCore/QAbstractItemModel.html)
