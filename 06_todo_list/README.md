@@ -107,29 +107,29 @@ vyplnil veškeré dostupné volné místo v okně, textové pole na zadávání 
 úkolů spolu s tlačítky je zarovnáno na dolní stranu okna.
 
 Aby bylo možné snadno adaptovat uživatelské rozhraní při změně velikosti okna,
-budeme používat [`ColumnLayout`]() a [`RowLayout`]() z modulu
+budeme používat [`ColumnLayout`](https://doc.qt.io/qt-5/qml-qtquick-layouts-columnlayout.html) a [`RowLayout`](https://doc.qt.io/qt-5/qml-qtquick-layouts-rowlayout.html) z modulu
 [`QtQuick.Layouts`](https://doc.qt.io/qt-5/qtquicklayouts-index.html). Oproti
-jednoduchým komponentám [`Row`]() a [`Column`]() umí tyto komponenty roztahovat
+jednoduchým komponentám [`Row`](https://doc.qt.io/qt-5/qml-qtquick-row.html) a [`Column`](https://doc.qt.io/qt-5/qml-qtquick-column.html) umí tyto komponenty roztahovat
 vložené prvky tak, aby vyplnily okno, zarovnávat je a dělat s nimi i další
 pokročilé pozicování. Tyto možnosti se nastavují ve vnořených komponentách
-pomocí atributu [`Layout.<atribut>`]() a vždy se vztahují k nejbližší nadřazené
+pomocí atributu [`Layout.<atribut>`](https://doc.qt.io/qt-5/qml-qtquick-layouts-layout.html) a vždy se vztahují k nejbližší nadřazené
 komponentě typu `Layout`. Speciálně pozor u `RowLayout`u, kde atributy
-`Layout.fillWidth` a `Layout.alignment` rovnou v `RowLayout`u se vztahují k
+[`Layout.fillWidth`](https://doc.qt.io/qt-5/qml-qtquick-layouts-layout.html#fillWidth-attached-prop) a [`Layout.alignment`](https://doc.qt.io/qt-5/qml-qtquick-layouts-layout.html#alignment-attached-prop) rovnou v `RowLayout`u se vztahují k
 umístění komponenty `RowLayout` v komponentě `ColumnLayout`, nikoli k prvkům
 komponenty `RowLayout`. Lidsky řečeno říkají, že se řádková komponenta má
 zarovnat dolů a roztáhnout přes celou šířku komponenty `ColumnLayout`. Atribut
-[`fillWidth`]() / [`fillHeight`]() říká, že má daná komponenta vyplnit celý
+[`fillWidth`](https://doc.qt.io/qt-5/qml-qtquick-layouts-layout.html#fillWidth-attached-prop) / [`fillHeight`](https://doc.qt.io/qt-5/qml-qtquick-layouts-layout.html#fillHeight-attached-prop) říká, že má daná komponenta vyplnit celý
 zbývající prostor, pomocí atributu `alignment` lze určit, ke které straně /
 stranám se má zarovnávat. 
 
-K zobrazení jednotlivých úkolů slouží komponenta [`CheckBox`](), která dělá
+K zobrazení jednotlivých úkolů slouží komponenta [`CheckBox`](https://doc.qt.io/qt-5/qml-qtquick-controls2-checkbox.html), která dělá
 zatrhávací políčko s popiskem. Aby bylo možné políčko zaškrtnout, je potřeba
-povolit atribut [`checkable`](), ke stavu zaškrtnutí je pak možné přistupovat
-pomocí atributu [`checkState`](), v tomto programu toho ale nevyužíváme. Místo toho
-hlídáme signál [`clicked`]() a při jeho vyslání necháme daný úkol smazat.
+povolit atribut [`checkable`](https://doc.qt.io/qt-5/qml-qtquick-controls2-abstractbutton.html#checkable-prop), ke stavu zaškrtnutí je pak možné přistupovat
+pomocí atributu [`checkState`](https://doc.qt.io/qt-5/qml-qtquick-controls2-checkbox.html#checkState-prop), v tomto programu toho ale nevyužíváme. Místo toho
+hlídáme signál [`clicked`](https://doc.qt.io/qt-5/qml-qtquick-controls2-abstractbutton.html#clicked-signal) a při jeho vyslání necháme daný úkol smazat.
 
-Aby byl [`TextInput`]() sloužící k zadávání textu nového úkolu výraznější, je
-obalen komponentou [`Rectangle`](), která mu zařizuje orámování. Tato komponenta
+Aby byl [`TextInput`](https://doc.qt.io/qt-5/qml-qtquick-textinput.html) sloužící k zadávání textu nového úkolu výraznější, je
+obalen komponentou [`Rectangle`](https://doc.qt.io/qt-5/qml-qtquick-rectangle.html), která mu zařizuje orámování. Tato komponenta
 získá svou šířku z `Layout`u, ale výšku nemá danou, takže je potřeba nějakou
 zvolit. Protože hned vedle jsou umístěna tlačítka, byla zvolena výška
 orámovávacího obdélníka jako výška jednoho z tlačítek, aby to vizuálně
@@ -137,8 +137,8 @@ navazovalo. U samotné vložené komponenty TextInput je potřeba nastavit výš
 podle obklopujícího obdélníka a zmenšit ji o rozměry rámečku. Také se hodí
 samotný text vertikálně vystředit, aby navazoval na text na tlačítkách vedle.
 
-[`TextInput`]() má nastaven atribut [`focus`](), aby bylo možné rovnou začít
-psát nové úkoly. Dále je využit signál [`accepted`](), který je vyvolán při
+[`TextInput`](https://doc.qt.io/qt-5/qml-qtquick-textinput.html) má nastaven atribut [`focus`](https://doc.qt.io/qt-5/qml-qtquick-item.html#focus-prop), aby bylo možné rovnou začít
+psát nové úkoly. Dále je využit signál [`accepted`](https://doc.qt.io/qt-5/qml-qtquick-textinput.html#accepted-signal), který je vyvolán při
 potvrzení enterem. Při jeho zpracování je využit blok, který umožňuje zadat více
 příkazů jako reakci na signál. V tomto případě je přidán nový úkol se zadaným
 textem a následně je textové pole smazáno, aby bylo možné psát další úkol.
@@ -146,3 +146,4 @@ textem a následně je textové pole smazáno, aby bylo možné psát další ú
 ## Zdroje
   - [QAbstractItemModel](https://doc.qt.io/qtforpython/PySide6/QtCore/QAbstractItemModel.html)
   - [QSortFilterProxyModel](https://doc.qt.io/qt-6/qsortfilterproxymodel.html)
+  - [Qt Quick Layouts Overview](https://doc.qt.io/qt-5/qtquicklayouts-overview.html)
